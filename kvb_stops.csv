@@ -1,0 +1,1411 @@
+1;Heumarkt;50.9357474;6.960314;bahn
+1;Heumarkt;50.935747;6.9603096;bahn
+2;Neumarkt;50.9357815;6.9477566;bahn
+2;Neumarkt;50.9363304;6.9469742;bahn
+2;Neumarkt;50.9355157;6.9490133;bahn
+2;Neumarkt;50.9362775;6.947963;bus
+2;Neumarkt;50.9356738;6.9482005;bus
+3;Poststr.;50.9317732;6.9499566;bahn
+4;Mauritiuskirche;50.9336615;6.9450868;bahn
+5;Gürzenichstr.;50.9369923;6.9578747;bus
+5;Gürzenichstr.;50.9362764;6.9596608;bus
+6;Rathaus;50.9386568;6.958082;bus
+6;Rathaus;50.9378974;6.9581659;bus
+7;Appellhofplatz;50.9412253;6.9507033;bahn
+8;Dom/Hbf;50.9417279;6.9572211;bahn
+8;Dom/Hbf;50.9417582;6.9571733;bus
+9;Breslauer Platz/Hbf;50.9430869;6.960087;bus
+9;Breslauer Platz/Hbf;50.9430846;6.9608965;bus
+11;Severinstr.;50.9293001;6.9577079;bahn
+11;Severinstr.;50.9285837;6.9589417;bus
+11;Severinstr.;50.9286163;6.9579595;bus
+11;Severinstr.;50.9301614;6.9570157;bus
+12;Waidmarkt;50.9324344;6.9554769;bus
+12;Waidmarkt;50.9323621;6.9562083;bus
+13;Rosenstr.;50.92629;6.958659;bus
+13;Rosenstr.;50.926894;6.961364;bus
+14;Silbermöwenweg;50.966296;6.876602;bus
+15;Severinskirche;50.9241316;6.9602321;bus
+15;Severinskirche;50.9236763;6.9616018;bus
+16;Rolandstr.;;;
+17;Ubierring;50.922458;6.9656608;bahn
+17;Ubierring;50.9226518;6.9660486;bus
+18;Chlodwigplatz;50.9212571;6.9604343;bahn
+18;Chlodwigplatz;50.9215422;6.9595896;bus
+18;Chlodwigplatz;50.9210036;6.9600954;bus
+18;Chlodwigplatz;50.9215336;6.9594768;bus
+19;Ulrepforte;50.9241245;6.9517926;bahn
+20;Alteburger Wall;50.917384;6.9642407;bus
+20;Alteburger Wall;50.9166901;6.9610407;bus
+21;Eifelplatz;50.9232266;6.9434608;bahn
+22;Eifelstr.;50.9266343;6.945806;bahn
+23;Barbarossaplatz;50.928975;6.9421476;bahn
+23;Barbarossaplatz;50.9289796;6.9432429;bahn
+23;Barbarossaplatz;50.9282533;6.9424488;bus
+23;Barbarossaplatz;50.9284999;6.9409176;bus
+24;Zülpicher Platz;50.9307962;6.9401662;bahn
+24;Zülpicher Platz;50.9313812;6.9406314;bahn
+25;Dasselstr./Bf Süd;50.9283145;6.935896;bahn
+26;Eifelwall;50.9246;6.9369529;bahn
+26;Eifelwall;50.9246466;6.9368128;bahn
+26;Eifelwall;50.9247888;6.9367376;bus
+26;Eifelwall;50.9253246;6.9370486;bus
+26;Eifelwall;50.9246247;6.9371042;bus
+27;Rudolfplatz;50.9361981;6.93975;bahn
+27;Rudolfplatz;50.9355779;6.9398502;bahn
+27;Rudolfplatz;50.9364011;6.938996;bahn
+27;Rudolfplatz;50.9361981;6.93975;bus
+27;Rudolfplatz;50.9355779;6.9398502;bus
+28;Moltkestr.;50.9355383;6.9323815;bahn
+28;Moltkestr.;50.9365011;6.9330107;bahn
+28;Moltkestr.;50.935397;6.9328022;bus
+28;Moltkestr.;50.9361863;6.9324628;bus
+29;Roonstr.;50.9332424;6.9342218;bus
+29;Roonstr.;50.9328671;6.9340394;bus
+30;Friesenplatz;50.9405098;6.940033;bahn
+31;Hans-Böckler-Platz/Bf West;50.9436789;6.9338669;bahn
+31;Hans-Böckler-Platz/Bf West;50.9435048;6.9332108;bahn
+31;Hans-Böckler-Platz/Bf West;50.9436086;6.9341307;bahn
+32;Christophstr./Mediapark;50.9445512;6.9422527;bahn
+32;Christophstr./Mediapark;50.9448547;6.9420127;bahn
+33;Bismarckstr.;;;
+34;Reichenspergerplatz;50.9541391;6.9644622;bahn
+34;Reichenspergerplatz;50.9538902;6.9634422;bus
+35;Ebertplatz;50.9507856;6.9590839;bahn
+35;Ebertplatz;50.9509016;6.957991;bus
+36;Hansaring;50.948751;6.9516121;bahn
+36;Hansaring;50.9490727;6.9517116;bahn
+37;Worringer Str.;50.9552663;6.9670464;bus
+38;Krefelder Wall;50.9541484;6.9506503;bus
+38;Krefelder Wall;50.9540943;6.9502415;bus
+39;Deutzer Freiheit;50.9380881;6.9714055;bahn
+39;Deutzer Freiheit;50.9359111;6.9709836;bahn
+40;Suevenstr.;50.9327911;6.9763699;bahn
+41;Bf Deutz/Messe;50.9395024;6.9776151;bus
+41;Bf Deutz/Messe;50.9398472;6.9763302;bus
+42;Koelnmesse;50.94349;6.9819912;bahn
+43;Propsthof Nord;;;
+44;Deutz-Kalker Bad;50.9365656;6.9859781;bus
+44;Deutz-Kalker Bad;50.9363408;6.9862899;bus
+45;Severinsbrücke;50.9308435;6.9721569;bahn
+46;Drehbrücke;50.9287869;6.9744825;bahn
+47;Poller Kirchweg;50.9238227;6.9798663;bahn
+48;Betzdorfer Str.;50.9358693;6.991655;bus
+48;Betzdorfer Str.;50.9357785;6.9916774;bus
+49;Bf Deutz/LANXESS arena;;;
+51;Im Rheinpark;50.9456285;6.9750183;bus
+51;Im Rheinpark;50.945672;6.9748917;bus
+52;Pohligstr.;50.9165091;6.9414533;bahn
+52;Pohligstr.;50.91721;6.94073;bus
+52;Pohligstr.;50.91734;6.9411;bus
+53;Herthastr.;50.9129489;6.9407607;bahn
+53;Herthastr.;50.9130204;6.9407058;bahn
+54;Gottesweg;50.9098383;6.9413671;bahn
+54;Gottesweg;50.9109549;6.9409404;bus
+54;Gottesweg;50.9109968;6.9410852;bus
+55;Kalscheurer Weg;;;
+56;Zollstockgürtel;50.9053534;6.9420467;bahn
+56;Zollstockgürtel;50.90464;6.94374;bus
+56;Zollstockgürtel;50.9048762;6.9437522;bus
+57;Zollstock Südfriedhof;50.9009689;6.9444945;bahn
+57;Zollstock Südfriedhof;50.90063;6.94521;bus
+57;Zollstock Südfriedhof;50.90104;6.94447;bus
+57;Zollstock Südfriedhof;50.9006755;6.9460753;bus
+58;Zollstocksweg;50.9087869;6.9456836;bus
+58;Zollstocksweg;50.9092131;6.9454159;bus
+59;Roisdorfer Str.;50.9052605;6.9456409;bus
+59;Roisdorfer Str.;50.9061031;6.9453167;bus
+60;Kendenicher Str.;50.9018436;6.93727;bus
+60;Kendenicher Str.;50.9017836;6.93717;bus
+60;Kendenicher Str.;50.9022863;6.9369849;bus
+60;Kendenicher Str.;50.9016763;6.9365749;bus
+61;Oberer Komarweg;50.8988819;6.9320139;bus
+61;Oberer Komarweg;50.8985305;6.9312988;bus
+62;Brüggener Str.;50.9051627;6.9392499;bus
+62;Brüggener Str.;50.90525;6.93915;bus
+63;Bernkasteler Str.;50.9066886;6.9367686;bus
+63;Bernkasteler Str.;50.9063688;6.9374041;bus
+64;Rheinsteinstr.;50.9072226;6.9597519;bus
+64;Rheinsteinstr.;50.9073972;6.959782;bus
+65;Schönhauser Str.;50.9142927;6.9719348;bahn
+66;Marktstr.;50.9116843;6.9644751;bus
+66;Marktstr.;50.911592;6.9625814;bus
+67;Koblenzer Str.;50.912479;6.9674022;bus
+68;Tacitusstr.;50.9092975;6.9698966;bus
+69;Mannsfeld;50.9095258;6.9628533;bus
+69;Mannsfeld;50.9095368;6.9629837;bus
+69;Mannsfeld;50.9096645;6.9618454;bus
+69;Mannsfeld;50.9098795;6.9619474;bus
+70;Cäsarstr.;50.90628;6.963819;bus
+71;Leichweg;50.90408;6.94904;bus
+71;Leichweg;50.90438;6.94925;bus
+72;Liblarer Str.;50.9002927;6.9513053;bus
+72;Liblarer Str.;50.900414;6.9522953;bus
+73;Heeresamt;50.8977783;6.951205;bus
+73;Heeresamt;50.89744;6.95146;bus
+74;Brühler Str./Gürtel;50.90361;6.95807;bus
+74;Brühler Str./Gürtel;50.90396;6.95797;bus
+74;Brühler Str./Gürtel;50.904734;6.9578638;bus
+74;Brühler Str./Gürtel;50.904821;6.9573499;bus
+75;Wasserwerk;50.8886179;6.9666208;bus
+76;Bayenthalgürtel;50.90634;6.9782024;bahn
+76;Bayenthalgürtel;50.9060519;6.9763266;bus
+76;Bayenthalgürtel;50.9063079;6.9760609;bus
+77;Ranzel Schule;;;
+78;Goltsteinstr./Gürtel;50.9045815;6.9719634;bus
+78;Goltsteinstr./Gürtel;50.9046825;6.9710038;bus
+78;Goltsteinstr./Gürtel;50.9043385;6.9718815;bus
+78;Goltsteinstr./Gürtel;50.9043385;6.9718815;bus
+79;Marienburger Str.;50.9015513;6.973338;bus
+79;Marienburger Str.;50.9010776;6.9738852;bus
+80;Marienburg Südpark;50.8983241;6.9754981;bus
+81;Bonner Str./Gürtel;50.9036613;6.965578;bus
+81;Bonner Str./Gürtel;50.9038887;6.9650139;bus
+81;Bonner Str./Gürtel;50.904252;6.964547;bus
+81;Bonner Str./Gürtel;50.9043172;6.9643034;bus
+82;Gaedestr.;50.9012777;6.9654136;bus
+83;Leyboldstr.;50.898642;6.9661327;bus
+84;Arnoldshöhe;50.8954327;6.9669499;bus
+85;Am Kölnberg;50.862927;6.927954;bus
+86;Meschenich Kirche;50.8602844;6.9269007;bus
+87;Engeldorfer Str.;50.85903;6.928558;bus
+88;Frankenstr.;50.8533749;6.9278502;bus
+89;Engeldorfer Hof;50.8538097;6.9211843;bus
+90;Kettelerstr.;50.8609982;6.9320899;bus
+91;Josef-Lammerting-Allee;50.9460043;6.8875524;bus
+92;Höningen Rondorfer Weg;50.880214;6.93688;bus
+93;Höningen Siedlung;50.883726;6.939452;bus
+94;Bonner Landstr.;50.883101;6.969735;bus
+95;Hochkirchen;50.8790945;6.9632501;bus
+96;Lerchenweg;50.8772931;6.9603295;bus
+97;Rondorf;50.8738703;6.9545441;bus
+98;Bödinger Str.;50.8745022;6.9505698;bus
+99;Westerwaldstr.;50.8721157;6.9467433;bus
+101;Am Steinneuerhof;50.876657;6.9381069;bus
+102;Friedhof Steinneuerhof;50.8735994;6.9374634;bus
+103;Kirschbaumweg;50.872806;6.993489;bus
+104;Mannesmannstr.;50.868788;6.991301;bus
+105;Hahnwald;50.870033;6.978002;bus
+106;Rodenkirchen Bf;50.8908469;6.9901304;bahn
+106;Rodenkirchen Bf;50.8913086;6.9901842;bus
+106;Rodenkirchen Bf;50.8913283;6.9902736;bus
+107;Siegstr.;50.8833126;6.9946554;bahn
+108;Michaelshoven;50.8760005;6.9990581;bahn
+109;Maternusplatz;50.892752;6.9937;bus
+110;Frankstr.;50.894691;6.989705;bus
+111;Rodenkirchen Rathaus;50.891738;6.996592;bus
+112;Grimmelshausenstr.;50.890476;7.00225;bus
+113;Lülsdorf Hallenbad;;;
+114;Uferstr.;50.891769;7.009782;bus
+116;Siegfriedstr.;50.887862;6.997874;bus
+117;Grüngürtelstr.;50.8846786;7.0055626;bus
+118;Richard-Wagner-Str.;;;
+119;Adolf-Menzel-Str.;;;
+120;Konrad-Adenauer-Str.;50.890443;6.986062;bus
+121;Schwabenstr.;50.887141;6.989644;bus
+122;Schillingsrotter Str.;50.884488;6.989744;bus
+123;Am Neuen Forst;50.8755456;6.9949301;bus
+124;Sürth Bf;50.8642043;7.003522;bahn
+124;Sürth Bf;50.8646264;7.0041655;bus
+125;Wesselinger Str.;50.860387;7.004559;bus
+126;Marktplatz Sürth;50.862214;7.007425;bus
+127;Kölnstr.;50.864685;7.011725;bus
+128;Ernst-Volland-Str.;50.867771;7.017631;bus
+129;Hammerschmidtstr.;50.870879;7.020895;bus
+130;Ritterstr.;50.872728;7.024359;bus
+131;Weißer Hauptstr.;;;
+132;Weiß Friedhof;50.877282;7.026846;bus
+133;Zum Hedelsberg;50.879031;7.021116;bus
+134;Godorf Bf;50.8471128;6.9783575;bahn
+135;Pierstr.;50.848595;6.97575;bus
+136;Otto-Hahn-Str.;50.8585591;6.9745207;bus
+137;Bunsenstr.;50.853597;6.975201;bus
+138;Friedhof Godorf;50.850378;6.971058;bus
+139;Immendorf Siedlung;50.85383;6.965563;bus
+140;Immendorf;50.8588276;6.9590036;bus
+141;Zaunhof;50.8604479;6.9547056;bus
+142;Mohnweg;50.9379756;6.8554744;bahn
+143;Universitätsstr.;50.9366588;6.9254902;bahn
+143;Universitätsstr.;50.9366838;6.9242529;bahn
+143;Universitätsstr.;50.9359634;6.9245156;bus
+143;Universitätsstr.;50.9358519;6.9249287;bus
+144;Melaten;50.936839;6.9165874;bahn
+145;Hildegardis-Krankenhaus;50.9304638;6.9234583;bus
+145;Hildegardis-Krankenhaus;50.9306084;6.9226139;bus
+146;Geibelstr.;50.9277913;6.9183596;bus
+146;Geibelstr.;50.9281305;6.9186195;bus
+147;Leiblplatz;50.9255526;6.9154585;bus
+147;Leiblplatz;50.9266982;6.916667;bus
+148;Karl-Schwering-Platz;50.9307;6.9164816;bus
+148;Karl-Schwering-Platz;50.931318;6.9178115;bus
+149;Theresienstr.;50.9293002;6.9128928;bus
+149;Theresienstr.;50.929591;6.9133112;bus
+150;Weißhausstr.;50.9214148;6.9334577;bahn
+150;Weißhausstr.;50.9215653;6.9334029;bus
+150;Weißhausstr.;50.9215539;6.9338382;bus
+151;Arnulfstr.;50.9182254;6.9301528;bahn
+151;Arnulfstr.;50.918342;6.9301369;bahn
+152;Sülzburgstr.;50.9153799;6.9270383;bahn
+152;Sülzburgstr.;50.9153488;6.9271411;bahn
+152;Sülzburgstr.;50.9159899;6.9269506;bus
+152;Sülzburgstr.;50.9155707;6.9283399;bus
+153;Universität;50.9258137;6.9308577;bahn
+153;Universität;50.9260055;6.9307287;bahn
+153;Universität;50.9263966;6.9295995;bus
+153;Universität;50.925387;6.9297626;bus
+154;Weyertal;50.9241202;6.9273152;bahn
+154;Weyertal;50.9238463;6.9266553;bahn
+155;Lindenburg;50.9221657;6.9215216;bahn
+155;Lindenburg;50.9224227;6.922058;bahn
+156;Konradstr.;50.9202258;6.9275441;bus
+157;Sülzburgstr./Berrenrather Str.;50.9170678;6.9236715;bus
+158;Lülsdorf Kirche;;;
+159;Rhöndorfer Str.;50.9139045;6.9323808;bus
+159;Rhöndorfer Str.;50.9137539;6.9329324;bus
+160;Sülzgürtel;50.9117164;6.923224;bahn
+160;Sülzgürtel;50.9127119;6.923071;bahn
+160;Sülzgürtel;50.9116708;6.9233192;bahn
+160;Sülzgürtel;50.9127829;6.9231745;bahn
+160;Sülzgürtel;50.9125957;6.9236244;bus
+160;Sülzgürtel;50.9127057;6.9227744;bus
+161;Bad Godesb. Bf/Löbestr.;;;
+162;Berrenrather Str./Gürtel;50.9145173;6.9204188;bahn
+162;Berrenrather Str./Gürtel;50.9145596;6.9217078;bus
+162;Berrenrather Str./Gürtel;50.9147812;6.9214944;bus
+163;Euskirchener Str.;50.9163645;6.9178217;bahn
+163;Euskirchener Str.;50.917234;6.9168617;bahn
+164;Zülpicher Str./Gürtel;50.9210193;6.914777;bahn
+164;Zülpicher Str./Gürtel;50.9197329;6.9156157;bahn
+164;Zülpicher Str./Gürtel;50.9205121;6.9158729;bahn
+164;Zülpicher Str./Gürtel;50.9202111;6.9145854;bahn
+165;Mommsenstr.;50.9191306;6.9102546;bahn
+166;Sülz Hermeskeiler Platz;50.9171353;6.9071464;bahn
+167;Klettenbergpark;50.9080131;6.9192931;bahn
+168;Siebengebirgsallee;50.9097934;6.9290967;bus
+168;Siebengebirgsallee;50.9101034;6.9279067;bus
+169;Wüllnerstr.;50.9317283;6.9078157;bahn
+170;Dürener Str./Gürtel;50.928137;6.9086049;bahn
+170;Dürener Str./Gürtel;50.9281202;6.9098566;bus
+170;Dürener Str./Gürtel;50.9281041;6.9094545;bus
+171;Kitschburger Str.;50.9262641;6.9011287;bus
+171;Kitschburger Str.;50.9264459;6.9018977;bus
+172;Brahmsstr.;50.9260941;6.8990693;bahn
+172;Brahmsstr.;50.9261591;6.8992243;bus
+172;Brahmsstr.;50.9260036;6.8988917;bus
+173;Gleueler Str./Gürtel;50.9240411;6.9120456;bahn
+173;Gleueler Str./Gürtel;50.9242139;6.9130383;bus
+173;Gleueler Str./Gürtel;50.9234022;6.9115294;bus
+174;Hohenlind;50.9245586;6.8973361;bus
+175;Krieler Str.;50.9218215;6.9077095;bus
+175;Krieler Str.;50.9212965;6.907105;bus
+176;Koppensteinstr.;50.9188959;6.9028108;bus
+176;Koppensteinstr.;50.9184356;6.9023196;bus
+177;Deckstein;50.9168653;6.900097;bus
+178;Aachener Str./Gürtel;50.9369972;6.9087698;bahn
+178;Aachener Str./Gürtel;50.9370131;6.9079464;bahn
+178;Aachener Str./Gürtel;50.9372587;6.9085232;bahn
+178;Aachener Str./Gürtel;50.936709;6.9083559;bahn
+179;Maarweg;50.9371598;6.899985;bahn
+180;Clarenbachstift;50.9372623;6.8944192;bahn
+181;Eupener Str.;50.9374383;6.8899396;bahn
+182;Oskar-Jäger-Str./Gürtel;50.9396469;6.9108201;bahn
+183;Stolberger Str./Eupener Str.;50.94232;6.888828;bus
+184;Stolberger Str./Maarweg;50.942028;6.89753;bus
+185;Müngersdorf S-Bahn/Technologiepark;;;
+186;Alter Militärring;50.9377119;6.8814919;bahn
+186;Alter Militärring;50.9379523;6.8821196;bus
+186;Alter Militärring;50.9379066;6.8811674;bus
+187;Rheinenergie-Stadion;50.9369931;6.877761;bahn
+187;Rheinenergie-Stadion;50.9376262;6.8746697;bahn
+188;Wendelinstr.;50.9406619;6.8798766;bus
+188;Wendelinstr.;50.9400504;6.8802747;bus
+189;Herrigergasse;50.9420066;6.8752745;bus
+190;Kämpchensweg;50.9453055;6.8727639;bus
+191;Am Lindenweg;50.9520401;6.8623982;bus
+192;Flachsweg;50.9459933;6.859517;bus
+193;Leinsamenweg;50.9454905;6.8530197;bus
+194;Roggenweg;50.9477894;6.8511979;bus
+194;Roggenweg;50.947624;6.8476585;bus
+195;Vitalisstr. Süd;50.9431504;6.882296;bus
+195;Vitalisstr. Süd;50.9432281;6.882178;bus
+196;Widdersdorfer Str.;50.9465835;6.8854596;bus
+197;Technologiepark Köln;50.9468724;6.8904184;bus
+197;Technologiepark Köln;50.946602;6.8912552;bus
+198;Schwindstr.;50.9408767;6.8616691;bus
+198;Schwindstr.;50.9408767;6.8616691;bus
+199;Böcklinstr.;50.9415604;6.8586341;bus
+199;Böcklinstr.;50.9415604;6.8586341;bus
+200;Junkersdorf;50.9376586;6.8687053;bahn
+200;Junkersdorf;50.9373915;6.8676463;bus
+200;Junkersdorf;50.9380171;6.8679663;bus
+202;Vogelsanger Weg;;;
+203;Birkenallee;50.933911;6.860529;bus
+204;Kölner Weg;50.931488;6.857511;bus
+205;Sterrenhofweg;50.928227;6.8545571;bus
+206;Beethovenstr.;50.9306546;6.8521109;bus
+206;Beethovenstr.;50.9306546;6.8521109;bus
+207;Südallee;50.930488;6.864008;bus
+208;Waldstr.;;;
+209;Wiener Weg;50.9274696;6.8658009;bus
+210;Stüttgerhofweg;;;
+211;Egelspfad;50.9422837;6.8531945;bus
+212;Bf Lövenich;50.9428732;6.8347392;bahn
+212;Bf Lövenich;50.9432401;6.8339824;bus
+212;Bf Lövenich;50.9434969;6.8328022;bus
+213;Seithümerstr.;50.9463302;6.8326085;bus
+213;Seithümerstr.;50.9463302;6.8326085;bus
+214;Dieselstr.;50.9471103;6.840395;bus
+214;Dieselstr.;50.9471103;6.840395;bus
+215;Zaunstr.;50.9471061;6.8301601;bus
+215;Zaunstr.;50.9470628;6.8297739;bus
+216;An der Ronne;50.9511381;6.8287153;bus
+216;An der Ronne;50.9513131;6.8288466;bus
+217;Spitzangerweg;50.947503;6.826984;bus
+218;Saarstr.;50.944036;6.821388;bus
+219;Severinusstr.;50.942842;6.825024;bus
+220;Braugasse;50.9440183;6.8296474;bus
+220;Braugasse;50.944093;6.8294436;bus
+221;Selma-Lagerlöf-Str.;50.9419592;6.8286684;bus
+221;Selma-Lagerlöf-Str.;50.9419592;6.8286684;bus
+222;Frechener Weg;50.9387953;6.8263295;bus
+223;Üsdorf;50.9351704;6.826683;bus
+223;Üsdorf;50.9349541;6.8268545;bus
+224;Weiden Sportplatz;50.9423175;6.8414143;bus
+225;Stormstr.;50.9421958;6.8450084;bus
+225;Stormstr.;50.9421958;6.8450084;bus
+226;Weiden Goethestr.;;;
+227;Ostlandstr.;50.9357731;6.8328259;bus
+227;Ostlandstr.;50.935851;6.8331124;bus
+228;Rosenhügel;50.8742951;7.0601342;bahn
+229;Diepenbeekallee;50.9354215;6.8457595;bus
+229;Diepenbeekallee;50.9353887;6.8460185;bus
+230;Im Buschfelde;50.9676957;6.8388806;bus
+231;Widdersdorf;50.9663275;6.8342724;bus
+232;Adrian-Meller-Str.;50.9635755;6.8303978;bus
+232;Adrian-Meller-Str.;50.9635263;6.8302547;bus
+233;Blaugasse;50.9629606;6.8304389;bus
+233;Blaugasse;50.9606236;6.8298555;bus
+234;Stüttgenhof;50.920088;6.8771644;bahn
+235;Marsdorf;50.9173738;6.857609;bahn
+235;Marsdorf;50.9175772;6.8587466;bahn
+236;Piusstr.;50.9460194;6.9259056;bahn
+237;Körnerstr.;50.9483207;6.9202904;bahn
+238;Gutenbergstr.;50.9504384;6.9281727;bahn
+239;Liebigstr.;50.9525184;6.9236134;bahn
+239;Liebigstr.;50.9519456;6.924897;bahn
+239;Liebigstr.;50.9524297;6.9246305;bus
+239;Liebigstr.;50.9524737;6.9245226;bus
+239;Liebigstr.;50.952423;6.9246621;bus
+240;Lülsdorf Uhlandstr.;;;
+241;Weiden Schulstr.;50.9384086;6.8292639;bahn
+242;Schaffrathsgasse;50.9716538;6.8702057;bahn
+243;Walter-Pauli-Ring;50.9370758;6.9950496;bus
+243;Walter-Pauli-Ring;50.9372251;6.9951013;bus
+244;Willi-Lauf-Allee;50.9259408;6.8616084;bus
+244;Willi-Lauf-Allee;50.9260555;6.8615772;bus
+245;Subbelrather Str./Gürtel;50.954966;6.9215922;bahn
+245;Subbelrather Str./Gürtel;50.9540188;6.9197262;bus
+245;Subbelrather Str./Gürtel;50.9538659;6.9197556;bus
+246;Nußbaumerstr.;50.957059;6.9237157;bahn
+247;Lenauplatz;50.9586383;6.9182544;bahn
+249;Iltisstr.;50.964929;6.9124243;bahn
+249;Iltisstr.;50.9649081;6.9123821;bahn
+249;Iltisstr.;50.9648991;6.9127647;bus
+249;Iltisstr.;50.9656743;6.9124472;bus
+249;Iltisstr.;50.9645099;6.9113183;bus
+250;Butzweilerstr.;50.9688897;6.9163526;bus
+250;Butzweilerstr.;50.968737;6.9165311;bus
+251;Venloer Str./Gürtel;50.9501453;6.9166764;bahn
+251;Venloer Str./Gürtel;50.9494988;6.9162821;bus
+251;Venloer Str./Gürtel;50.9490721;6.915464;bus
+252;Eichenstr.;50.9269624;6.8685046;bus
+252;Eichenstr.;50.9269624;6.8685046;bus
+253;Geisselstr.;50.9434772;6.91674;bus
+253;Geisselstr.;50.9433661;6.9167864;bus
+254;Weinsbergstr./Gürtel;50.9447574;6.9127151;bahn
+254;Weinsbergstr./Gürtel;50.9452641;6.9127821;bahn
+254;Weinsbergstr./Gürtel;50.9450638;6.9119846;bus
+254;Weinsbergstr./Gürtel;50.9447166;6.9135356;bus
+254;Weinsbergstr./Gürtel;50.9451335;6.9121444;bus
+255;Leyendeckerstr.;50.9543833;6.9101259;bahn
+256;Borsigstr.;50.9582225;6.9048026;bus
+256;Borsigstr.;50.9583285;6.9046033;bus
+257;Bf Deutz/Messeplatz;50.9420591;6.9730246;bus
+258;Oskar-Jäger-Str.;50.9453866;6.9072113;bus
+259;Karnevalsmuseum;50.946015;6.898105;bus
+260;Vogelsanger Str./Maarweg;50.953025;6.899435;bus
+261;Weiden Zentrum;50.9383072;6.8355402;bahn
+261;Weiden Zentrum;50.9381779;6.8341471;bahn
+261;Weiden Zentrum;50.938258;6.835043;bahn
+261;Weiden Zentrum;50.9381779;6.8341471;bus
+261;Weiden Zentrum;50.9383486;6.8353005;bus
+261;Weiden Zentrum;50.9381395;6.834387;bus
+261;Weiden Zentrum;50.9384853;6.8341058;bus
+262;Äußere Kanalstr.;50.9569869;6.9022286;bahn
+262;Äußere Kanalstr.;50.9574445;6.900822;bus
+262;Äußere Kanalstr.;50.9573824;6.9012314;bus
+263;Alter Deutzer Postweg;50.9188702;7.0503213;bus
+263;Alter Deutzer Postweg;50.9188144;7.0500919;bus
+264;Akazienweg;50.960862;6.8935115;bahn
+265;Vogelsanger Str.;50.956191;6.8921119;bus
+266;Häuschensweg;50.9610183;6.9014324;bus
+267;Feltenstr.;50.9630736;6.9002219;bus
+268;Emilstr.;50.9663266;6.8979242;bus
+269;Erlenweg;50.968164;6.8954587;bus
+270;Mühlenweg;50.9715221;6.891054;bus
+271;Ossendorf;50.976907;6.90451;bus
+272;Rektor-Klein-Str.;50.9740196;6.9047539;bahn
+272;Rektor-Klein-Str.;50.9740164;6.9047095;bahn
+272;Rektor-Klein-Str.;50.9746802;6.904479;bus
+273;Margaretastr.;50.9683544;6.9055485;bahn
+274;Alter Flughafen Butzweilerhof;50.9774704;6.89813;bahn
+274;Alter Flughafen Butzweilerhof;50.977682;6.8969728;bus
+274;Alter Flughafen Butzweilerhof;50.9775047;6.8975004;bus
+275;Hugo-Eckener-Str.;50.9776769;6.892437;bus
+276;Blériotstr.;;;
+277;Von-Hünefeld-Str.;50.9773273;6.8853938;bus
+277;Von-Hünefeld-Str.;50.977209;6.8854391;bus
+278;Mathias-Brüggen-Str.;50.982935;6.885061;bus
+279;Militärringstr.;;;
+280;Lülsdorf Nord;;;
+281;Lülsdorf Schulzentrum;;;
+282;Wolffsohnstr.;50.965024;6.8849729;bahn
+283;Westfriedhof;50.9674606;6.8785059;bahn
+284;Lacher Broch;50.9585179;7.0413576;bus
+284;Lacher Broch;50.9584708;7.0409623;bus
+285;Kolkrabenweg;50.9646116;6.8785661;bus
+286;Steinkauzweg;50.9635792;6.8743175;bus
+286;Steinkauzweg;50.9634764;6.8752101;bus
+287;Bachstelzenweg;50.9613627;6.872146;bus
+287;Bachstelzenweg;50.9612954;6.8723069;bus
+288;Goldammerweg;50.9583731;6.8731674;bus
+289;Vogelsanger Markt;50.955522;6.8809691;bus
+290;Falkenweg;50.9554915;6.8845437;bus
+291;Bocklemünd;50.9693753;6.8728372;bahn
+291;Bocklemünd;50.9694411;6.8729913;bus
+292;WDR;50.9700092;6.8568384;bus
+293;Grevenbroicher Str.;50.9730707;6.86573;bus
+294;Nattermannallee;50.9756506;6.8588755;bus
+295;Dohmengasse;50.9803512;6.8577885;bus
+295;Dohmengasse;50.9810077;6.8594328;bus
+296;Kochwiesenstr.;50.9631366;7.0497075;bus
+297;Auweilerweg;50.986978;6.858776;bus
+298;Ollenhauerring;50.9760731;6.8714997;bahn
+298;Ollenhauerring;50.9762597;6.8708179;bus
+299;Nüssenberger Str.;50.9766476;6.8655496;bus
+300;Görlinger Zentrum;50.9800568;6.8650956;bus
+301;Heinrich-Mann-Str.;50.9832103;6.8650849;bus
+301;Heinrich-Mann-Str.;50.983393;6.8653321;bus
+302;Buschweg;50.984684;6.860243;bus
+303;Neusser Str./Gürtel;50.972334;6.9514272;bahn
+303;Neusser Str./Gürtel;50.9723281;6.9512323;bahn
+303;Neusser Str./Gürtel;50.9725245;6.9515088;bus
+304;Florastr.;50.9642618;6.9537868;bahn
+304;Florastr.;50.9649896;6.9536866;bus
+305;Lohsestr.;50.9592982;6.9546952;bahn
+306;Nordstr.;50.9668531;6.9533235;bus
+307;Leipziger Platz;50.9664227;6.9558065;bus
+308;Niehler Str.;50.9676585;6.9594518;bus
+308;Niehler Str.;50.9672909;6.9590226;bus
+309;Kretzerstr.;50.9670261;6.9628507;bus
+309;Kretzerstr.;50.9670207;6.9639751;bus
+310;Bergstr.;50.9729052;6.9463444;bus
+310;Bergstr.;50.9739929;6.9463498;bus
+311;Sechzigstr.;50.9594405;6.9446974;bus
+311;Sechzigstr.;50.9581921;6.9448498;bus
+312;Merheimer Platz;50.9579453;6.9500538;bus
+312;Merheimer Platz;50.957927;6.9497024;bus
+313;Zoo/Flora;50.9579926;6.9745125;bahn
+314;Boltensternstr.;50.9624144;6.9809837;bahn
+315;Slabystr.;50.9660237;6.9877723;bahn
+316;Kinderkrankenhaus;50.9636132;6.9685034;bahn
+317;Amsterdamer Str./Gürtel;50.9708459;6.9690545;bahn
+317;Amsterdamer Str./Gürtel;50.9708416;6.969094;bahn
+317;Amsterdamer Str./Gürtel;50.9708907;6.9693395;bus
+317;Amsterdamer Str./Gürtel;50.9708491;6.968895;bus
+318;Bodinusstr.;50.9612591;6.9736274;bus
+319;Riehler Gürtel;50.9643726;6.9766217;bus
+319;Riehler Gürtel;50.9650591;6.9767349;bus
+320;Seniorenzentrum Riehl;50.9679759;6.9790249;bus
+322;Ranzel Gewerbegebiet;;;
+323;Xantener Str.;50.9661419;6.9682544;bus
+323;Xantener Str.;50.9664608;6.9691299;bus
+324;Hahnwaldweg;;;
+325;Geldernstr./Parkgürtel;50.9685597;6.9412635;bahn
+325;Geldernstr./Parkgürtel;50.9685728;6.9414871;bahn
+325;Geldernstr./Parkgürtel;50.9691083;6.9397998;bus
+325;Geldernstr./Parkgürtel;50.968686;6.9398856;bus
+326;Escher Str.;50.9644684;6.9336544;bahn
+327;Nievenheimer Str.;50.9624169;6.9403219;bus
+328;Ludwigsburger Str.;50.9654795;6.9400777;bus
+329;Frankenthaler Str.;50.9690926;6.935977;bus
+329;Frankenthaler Str.;50.9689399;6.9365268;bus
+330;Ebernburgweg;50.9691191;6.9317085;bus
+331;Alzeyer Str.;50.9696866;6.9270348;bus
+331;Alzeyer Str.;50.970354;6.9270819;bus
+332;Am Bilderstöckchen;50.9732835;6.9254929;bus
+334;Robert-Perthel-Str.;50.9807278;6.9181705;bus
+334;Robert-Perthel-Str.;50.9809338;6.9181812;bus
+335;Longericher Str. Nord;50.9840239;6.9128704;bus
+335;Longericher Str. Nord;50.9839733;6.9125754;bus
+336;Mollwitzstr.;50.9784395;6.948726;bahn
+337;Scheibenstr.;50.9856627;6.9463636;bahn
+338;Nordfriedhof;50.9759857;6.945883;bus
+338;Nordfriedhof;50.9758506;6.9458133;bus
+339;Nibelungenplatz;50.9745347;6.939694;bus
+340;Schmiedegasse;50.9771788;6.935622;bus
+341;Etzelstr.;50.9784097;6.9318582;bus
+342;Niehl;50.9955187;6.9555085;bahn
+342;Niehl;50.9948085;6.9558568;bus
+343;Niehl Sebastianstr.;50.9853131;6.9612189;bahn
+344;Ranzel Kirche;;;
+345;Friedrich-Karl-Str./Niehler Str.;50.974658;6.959825;bus
+346;Drosselweg;50.9770265;6.9606982;bus
+347;Weidenpescher Str.;50.9795397;6.9633725;bus
+347;Weidenpescher Str.;50.9798168;6.9634766;bus
+348;Graditzer Str.;50.9827253;6.9606644;bus
+349;Merkenicher Str.;50.9892695;6.961401;bus
+349;Merkenicher Str.;50.9901004;6.9614601;bus
+350;Halfengasse;50.9924301;6.958849;bus
+351;Niehler Damm;50.9942277;6.9609908;bus
+352;Riehl Betriebshof Nord;50.9748449;6.9729004;bus
+354;St.Joseph-Kirche;;;
+355;Meerfeldstr.;50.9951058;6.9207546;bahn
+356;Longericher Str.;50.9961827;6.9141538;bahn
+356;Longericher Str.;50.996011;6.9139745;bus
+357;Longerich Friedhof;50.9955978;6.9112343;bahn
+357;Longerich Friedhof;50.9952222;6.9118632;bus
+358;Longerich S-Bahn;50.9982216;6.9013292;bahn
+358;Longerich S-Bahn;50.9982511;6.9014129;bahn
+358;Longerich S-Bahn;50.9983571;6.9015804;bahn
+358;Longerich S-Bahn;50.9988644;6.9031147;bus
+358;Longerich S-Bahn;50.9991345;6.9030825;bus
+358;Longerich S-Bahn;50.9992898;6.9018057;bus
+358;Longerich S-Bahn;50.9993472;6.902074;bus
+359;Lindweilerweg;50.9954579;6.9017097;bus
+359;Lindweilerweg;50.9953194;6.9016132;bus
+360;Dionysstr.;50.9971014;6.9060683;bus
+360;Dionysstr.;50.997281;6.9072351;bus
+361;Dädalusring;50.9903488;6.9063902;bus
+361;Dädalusring;50.9908317;6.9059128;bus
+362;Wilhelm-Sollmann-Str.;50.9919749;6.9410669;bahn
+362;Wilhelm-Sollmann-Str.;50.9918045;6.9409966;bus
+363;Altonaer Platz;50.9939738;6.9328185;bahn
+364;Herforder Str.;50.9946677;6.9255022;bahn
+365;Bremerhavener Str.;50.9983343;6.9362449;bus
+366;Esso;51.0075559;6.9296665;bus
+367;Geestemünder Str.;51.0022082;6.9552444;bahn
+368;Fordwerke Süd;51.0059474;6.9553434;bahn
+369;Fordwerke Mitte;51.0118627;6.9553571;bahn
+370;Fordwerke Nord;51.0172334;6.9553507;bahn
+370;Fordwerke Nord;51.0180671;6.9553672;bahn
+371;Bonn Bad Godesberg Stadthalle;;;
+372;Heinering;50.9961955;6.8724271;bus
+372;Heinering;50.9958608;6.8725287;bus
+373;Pesch Schulstr.;50.9992159;6.8695687;bus
+373;Pesch Schulstr.;50.9989691;6.8694915;bus
+374;Auweiler;51.0025998;6.852972;bus
+375;Hermann-Löns-Str.;51.0058559;6.853897;bus
+376;Chorbuschstr.;51.0125962;6.8576891;bus
+376;Chorbuschstr.;51.0126192;6.8577589;bus
+376;Chorbuschstr.;51.01327;6.8569884;bus
+376;Chorbuschstr.;51.013013;6.8585931;bus
+377;Esch;51.0136853;6.8553392;bus
+377;Esch;51.0139732;6.8543131;bus
+378;Johannes-Prassel-Str.;51.01459;6.8465532;bus
+378;Johannes-Prassel-Str.;51.0145469;6.8473964;bus
+379;Sinnersdorfer Mühle;51.0177914;6.834705;bus
+380;Pescher Weg;50.999844;6.882362;bus
+380;Pescher Weg;50.99961;6.8821893;bus
+381;Otto-Müller-Str.;51.0002455;6.8788593;bus
+381;Otto-Müller-Str.;51.0008242;6.8782867;bus
+382;Gewerbegebiet Pesch;51.004135;6.872871;bus
+382;Gewerbegebiet Pesch;51.004276;6.873197;bus
+383;Donatusstr.;51.006597;6.871477;bus
+384;Heimersdorf;51.0116361;6.9071309;bahn
+384;Heimersdorf;51.0124936;6.9079627;bus
+385;Chorweiler;51.0211285;6.8977987;bahn
+385;Chorweiler;51.0210596;6.8980399;bahn
+385;Chorweiler;51.0211182;6.8978557;bahn
+386;Karl-Marx-Allee;51.0239161;6.9039151;bus
+386;Karl-Marx-Allee;51.0239863;6.904231;bus
+387;Am Hetzepetsch;51.0144806;6.9126804;bus
+387;Am Hetzepetsch;51.0142376;6.9126375;bus
+388;Herstattallee;51.0170587;6.9024978;bus
+388;Herstattallee;51.0167405;6.9041036;bus
+389;Zypressenstr.;51.012597;6.899434;bus
+390;Stallagsweg;51.0102862;6.8957926;bus
+391;Pulheimer Str.;51.005606;6.899042;bus
+392;Marienberger Weg;51.0001331;6.8926358;bus
+392;Marienberger Weg;50.9999818;6.8925253;bus
+393;Lindweilerfeld;51.0028704;6.8896816;bus
+393;Lindweilerfeld;51.0032046;6.889628;bus
+394;Unnauer Weg;51.0072936;6.8894086;bus
+394;Unnauer Weg;51.0058084;6.8905351;bus
+395;Seeberg;51.0186391;6.9176312;bus
+396;Merianstr.;51.0274059;6.9100677;bus
+396;Merianstr.;51.0270793;6.9112096;bus
+396;Merianstr.;51.0267112;6.9095981;bus
+397;Fühlinger Weg;51.0209079;6.8879226;bus
+397;Fühlinger Weg;51.0202162;6.888164;bus
+398;Friedhof Chorweiler;51.018148;6.881043;bus
+399;Blockstr.;51.021945;6.87587;bus
+400;Wezelostr.;51.021456;6.884669;bus
+401;Weiler;51.023323;6.882343;bus
+402;Volkhovener Weg;51.0141205;6.8932042;bahn
+402;Volkhovener Weg;51.0141137;6.8932593;bahn
+402;Volkhovener Weg;51.0141505;6.8928064;bus
+402;Volkhovener Weg;51.0143572;6.8925044;bus
+403;Weichselring;51.0258782;6.894891;bus
+403;Weichselring;51.025642;6.8949446;bus
+403;Weichselring;51.0262291;6.8961999;bus
+403;Weichselring;51.0265665;6.8963823;bus
+404;Haus Fühlingen;51.0312984;6.9066099;bus
+404;Haus Fühlingen;51.0308513;6.9066636;bus
+405;Fühlingen;51.0359482;6.9034128;bus
+405;Fühlingen;51.0367717;6.9028625;bus
+406;Mennweg;51.043604;6.8982076;bus
+406;Mennweg;51.0438897;6.8981906;bus
+407;Langel Fähre;51.052707;6.9145763;bus
+408;Langel Nord;51.0510614;6.9163251;bus
+408;Langel Nord;51.0514376;6.9159801;bus
+409;Langel Mohlenweg;51.0485591;6.920048;bus
+409;Langel Mohlenweg;51.0486656;6.9202609;bus
+410;Langel Kuhlenweg;51.0461512;6.9248116;bus
+410;Langel Kuhlenweg;51.0464195;6.9247026;bus
+411;Rheinkassel;51.0394325;6.9327616;bus
+412;Oranjehofstr.;51.0254849;6.9392234;bus
+412;Oranjehofstr.;51.0256252;6.9394551;bus
+413;Rheinlandstr.;51.0267716;6.9284755;bus
+414;Edsel-Ford-Str.;51.0303412;6.9228428;bus
+415;Robert-Bosch-Str.;51.0321292;6.9196832;bus
+416;Merkenich Mitte;51.0243839;6.9530997;bahn
+417;Merkenich;51.0281255;6.9479872;bahn
+417;Merkenich;51.0284425;6.9479223;bus
+418;Schlettstadter Str.;51.0307359;6.9517195;bus
+419;Kasselberg;51.0366193;6.939553;bus
+420;Worringen S-Bahn;51.0522707;6.851938;bahn
+420;Worringen S-Bahn;51.0523042;6.8520929;bahn
+421;Walter-Dodde-Weg;51.048896;6.8512725;bus
+421;Walter-Dodde-Weg;51.0488012;6.8513445;bus
+422;Baptiststr.;51.0469578;6.8491521;bus
+422;Baptiststr.;51.0476728;6.8500426;bus
+423;Further Str.;51.0435062;6.8475133;bus
+424;Alte Römerstr.;51.0568645;6.8826677;bus
+425;Worringen Süd;51.0608164;6.8728733;bus
+426;St.-Tönnis-Str.;;;
+427;Hackhauser Weg;51.061426;6.85636;bus
+428;Wiedenfelder Weg;51.064582;6.853722;bus
+429;Bitterstr.;51.069094;6.857457;bus
+430;Dornstr.;51.069373;6.861072;bus
+431;An den Kaulen;51.0648995;6.8599625;bus
+433;Rolshover Str.;50.9292679;6.9993673;bus
+433;Rolshover Str.;50.9287309;7.0003267;bus
+433;Rolshover Str.;50.9286213;7.0000052;bus
+433;Rolshover Str.;50.9291481;6.9998496;bus
+434;Üdesheimer Weg;51.058678;6.858448;bus
+435;Mühlenweiher;51.065087;6.864573;bus
+436;Andreaskloster;50.9425877;6.954655;bus
+437;Ettore-Bugatti-Straße;50.9086351;7.0551627;bus
+438;Poll Salmstr.;50.9159852;6.9928117;bahn
+438;Poll Salmstr.;50.9162734;6.9948404;bus
+438;Poll Salmstr.;50.9162734;6.9948404;bus
+438;Poll Salmstr.;50.9166264;6.9947471;bus
+438;Poll Salmstr.;50.9166264;6.9947471;bus
+439;Baumschulenweg;50.9146177;7.0005309;bahn
+440;Schüttewerk;50.9131901;6.9830369;bus
+440;Schüttewerk;50.9135226;6.9831307;bus
+441;Alfred-Schütte-Allee;50.9113629;6.9853133;bus
+441;Alfred-Schütte-Allee;50.9117811;6.9845366;bus
+442;Poll Hauptstr.;50.9116312;6.9896832;bus
+442;Poll Hauptstr.;50.9111663;6.9894774;bus
+443;Im Wasserfeld;50.9112218;6.9936904;bus
+444;Raiffeisenstr.;50.9199536;6.9860916;bahn
+445;Poller Holzweg;50.9182879;6.9970569;bus
+445;Poller Holzweg;50.9183323;6.9967503;bus
+446;Taubenholzweg;50.9217344;6.999373;bus
+446;Taubenholzweg;50.9213789;6.9987694;bus
+447;Zündorfer Weg;50.9103677;6.9982263;bus
+448;Siegburger Str.;50.9141142;6.9958639;bus
+448;Siegburger Str.;50.9151035;6.9931687;bus
+449;Westhoven Kölner Str.;50.9067383;7.0147185;bahn
+450;Westhoven Berliner Str.;50.901424;7.0253093;bahn
+450;Westhoven Berliner Str.;50.9012292;7.0258322;bahn
+451;Ensen Gilgaustr.;50.8995251;7.0314874;bahn
+451;Ensen Gilgaustr.;50.8995816;7.0306424;bahn
+452;Ensen Kloster;50.8970602;7.0473877;bahn
+453;Albin-Köbis-Straße;50.8631635;7.0935425;bus
+454;Hansestr. Ost;50.914176;7.065739;bus
+455;Hansestr.;50.9130282;7.055169;bus
+455;Hansestr.;50.9130304;7.0551664;bus
+456;Humboldtstr.;50.8916003;7.0694114;bus
+457;Bonner Str.;50.892898;7.074492;bus
+458;Eil Kirche;50.8921798;7.0778841;bus
+458;Eil Kirche;50.8921798;7.0780643;bus
+459;Im Falkenhorst;50.8884305;7.0800774;bus
+459;Im Falkenhorst;50.8886032;7.0797955;bus
+460;Eil Heumarer Str.;50.8971821;7.0781874;bus
+460;Eil Heumarer Str.;50.8970642;7.0781931;bus
+461;Maarhäuser Weg;50.9101728;7.0704951;bus
+461;Maarhäuser Weg;50.9096998;7.0705194;bus
+462;Hansestr. Süd;50.9050997;7.0773058;bus
+462;Hansestr. Süd;50.9055484;7.0767383;bus
+463;Rudolf-Diesel-Str.;50.9005617;7.0754398;bus
+463;Rudolf-Diesel-Str.;50.9014131;7.0761371;bus
+464;Theodor-Heuss-Str.;50.8969143;7.0648346;bus
+465;Stresemannstr.;50.897012;7.0612793;bus
+465;Stresemannstr.;50.8970296;7.0612733;bus
+466;Porz Steinstr.;50.8918424;7.0561426;bahn
+466;Porz Steinstr.;50.8919289;7.0562649;bus
+466;Porz Steinstr.;50.8914248;7.0562328;bus
+467;Porz Markt;50.8848596;7.0592044;bahn
+468;Bf Porz;50.883121;7.0644408;bahn
+468;Bf Porz;50.8827668;7.0647185;bahn
+468;Bf Porz;50.8819958;7.0678195;bus
+468;Bf Porz;50.8822615;7.0676598;bus
+469;Siemensstr.;50.885505;7.07101;bus
+470;Kopernikusschule;50.88772;7.070649;bus
+471;Feuerwache;50.8811668;7.0729736;bus
+472;Urbach Breslauer Str.;;;
+473;Am Heiligenhäuschen;;;
+474;Antoniusstr.;50.881731;7.092182;bus
+475;Waldstr./Akazienweg;50.880797;7.0974539;bus
+475;Waldstr./Akazienweg;50.8812665;7.0983436;bus
+476;Grengel Mauspfad;50.8802726;7.1032603;bus
+477;Friedensstr.;50.877283;7.097718;bus
+478;Wiesenweg;50.8730099;7.0982993;bus
+479;Urbach Friedhof;50.878259;7.087568;bus
+480;Friedrich-Hirsch-Str.;50.8759579;7.0840046;bus
+481;Elsdorf;50.8723998;7.0832362;bus
+482;Kaserne Nordtor;50.8722728;7.1073779;bus
+484;Dorotheenstraße;50.886339;7.074198;bus
+485;Berrenrather Str.;50.9145173;6.9204188;bahn
+486;Zündorf;50.8660413;7.0491102;bahn
+486;Zündorf;50.8658634;7.0485971;bus
+487;An St. Marien;50.8639161;7.0544393;bus
+488;Wahn S-Bahn;50.857619;7.0795041;bahn
+488;Wahn S-Bahn;50.8581608;7.0795155;bus
+489;Wahn Kirche;50.8580141;7.0859894;bus
+489;Wahn Kirche;50.8573256;7.0855534;bus
+490;Nachtigallenstr.;50.8621108;7.0840386;bus
+491;Wahn Friedhof;50.85251;7.089837;bus
+492;Linder Kreuz;50.8469228;7.094443;bus
+492;Linder Kreuz;50.8468297;7.0942252;bus
+492;Linder Kreuz;50.8469217;7.0944446;bus
+493;Troisdorfer Str.;50.8478287;7.1003255;bus
+493;Troisdorfer Str.;50.8482681;7.100885;bus
+494;Linder Weg;50.8497021;7.1036589;bus
+494;Linder Weg;50.8498181;7.1036356;bus
+495;Linder Mauspfad;50.8510369;7.1091352;bus
+495;Linder Mauspfad;50.8510857;7.1093891;bus
+495;Linder Mauspfad;50.8505452;7.1098565;bus
+496;Deutzer Ring;50.9355972;6.993783;bus
+496;Deutzer Ring;50.93546;6.9940234;bus
+497;Libur Kirche;50.8382836;7.0695537;bus
+498;Libur Margaretenstr.;50.8392653;7.0731359;bus
+499;Lucasstr.;50.8658227;7.1066761;bus
+499;Lucasstr.;50.865713;7.106821;bus
+500;Bieselweg;50.8637747;7.0998033;bus
+500;Bieselweg;50.8636519;7.0998218;bus
+501;Messe Omnibushof;;;
+502;Kornblumenweg;50.8583816;7.0918905;bus
+503;Guntherstr.;50.8588241;7.10077;bus
+503;Guntherstr.;50.8589769;7.1007839;bus
+504;Hagenstr.;;;
+509;DLR;50.855263;7.118978;bus
+510;Urbach Waldstr.;50.881431;7.082896;bus
+511;Urbach Kaiserstr.;50.88151;7.080851;bus
+511;Urbach Kaiserstr.;50.8814504;7.0810828;bus
+511;Urbach Kaiserstr.;50.8815521;7.0829285;bus
+511;Urbach Kaiserstr.;50.8813897;7.0829285;bus
+512;Kalk Post;50.9374805;6.9986436;bahn
+512;Kalk Post;50.9373226;6.9982163;bus
+512;Kalk Post;50.937545;6.9988644;bus
+513;Kalk Kapelle;50.9389426;7.0087446;bahn
+513;Kalk Kapelle;50.9390423;7.0087857;bus
+513;Kalk Kapelle;50.9389995;7.0093168;bus
+514;Eythstr.;50.9400553;7.0109838;bus
+514;Eythstr.;50.9400553;7.0109838;bus
+514;Eythstr.;50.9399384;7.0109351;bus
+514;Eythstr.;50.9399384;7.0109351;bus
+515;Steinmetzstr.;50.9425762;7.0082303;bus
+515;Steinmetzstr.;50.9433967;7.0093789;bus
+516;Remscheider Str.;50.9445174;7.0050073;bus
+516;Remscheider Str.;50.9442933;7.0079256;bus
+517;Fuldaer Str.;50.9415765;7.0222838;bahn
+517;Fuldaer Str.;50.941569;7.0226907;bus
+517;Fuldaer Str.;50.9415714;7.0225423;bus
+518;Höhenberg Frankfurter Str.;50.9416095;7.0301715;bahn
+518;Höhenberg Frankfurter Str.;50.9416994;7.0293708;bus
+519;Mülheimer Friedhof;50.9468304;7.0224898;bus
+519;Mülheimer Friedhof;50.9461404;7.0230229;bus
+520;Würzburger Str.;50.938739;7.01965;bus
+520;Würzburger Str.;50.9390174;7.0195637;bus
+521;Vingst;50.9327817;7.0213434;bahn
+521;Vingst;50.9327581;7.0217774;bus
+521;Vingst;50.9328162;7.0216323;bus
+522;Kürtenstr.;50.9284095;7.0172299;bus
+522;Kürtenstr.;50.9284735;7.0170828;bus
+523;Oranienstr.;50.9361523;7.0212154;bus
+523;Oranienstr.;50.9363568;7.0212699;bus
+525;Feldbergstr.;50.9340673;6.9943596;bus
+525;Feldbergstr.;50.9333752;6.9938886;bus
+526;Weilburger Str.;50.9313219;6.993921;bus
+526;Weilburger Str.;50.9314348;6.9937637;bus
+527;Am Grauen Stein;50.923811;6.9920369;bus
+528;Esserstr.;50.9299968;6.9973056;bus
+528;Esserstr.;50.9301076;6.9964118;bus
+529;Sachsenbergstr.;;;
+530;Gremberg;50.9267378;7.0110459;bus
+530;Gremberg;50.9257572;7.0106233;bus
+531;Gießener Str.;50.9338253;7.001026;bus
+531;Gießener Str.;50.9338253;7.001026;bus
+531;Gießener Str.;50.9336993;7.0009926;bus
+531;Gießener Str.;50.9336993;7.0009926;bus
+532;Sauerlandstr.;50.9262814;6.9994993;bus
+532;Sauerlandstr.;50.9262814;6.9994993;bus
+533;Ostheim;50.9292179;7.0417481;bahn
+534;Autobahn;50.9272857;7.0533882;bahn
+534;Autobahn;50.9286154;7.0558323;bus
+534;Autobahn;50.9287472;7.055683;bus
+535;Buchheimer Weg;50.9339154;7.0372901;bus
+536;Saarbrücker Str.;50.9244899;7.0451524;bus
+536;Saarbrücker Str.;50.9249984;7.0451242;bus
+537;Servatiusstr.;50.9297623;7.0473923;bus
+537;Servatiusstr.;50.929943;7.0467177;bus
+539;Kalker Friedhof;50.942619;7.0424136;bahn
+540;Merheim;50.9443035;7.0486294;bahn
+540;Merheim;50.9440814;7.0478526;bahn
+540;Merheim;50.9442236;7.0481158;bus
+540;Merheim;50.9442343;7.0478027;bus
+541;Broichstr.;50.9509864;7.0501647;bus
+542;Bevingsweg;50.9500536;7.0432232;bus
+542;Bevingsweg;50.9500909;7.0427031;bus
+543;Ostmerheimer Str.;50.9415343;7.0507989;bus
+543;Ostmerheimer Str.;50.94159;7.050913;bus
+544;Wiehler Str.;50.9433262;7.0632853;bus
+544;Wiehler Str.;50.942565;7.0644026;bus
+545;Gewerbegebiet Broichstr.;50.9449093;7.0602582;bus
+545;Gewerbegebiet Broichstr.;50.9445528;7.0599884;bus
+546;Flehbachstr.;50.9476663;7.0728043;bahn
+547;Brück Mauspfad;50.9486867;7.0777096;bahn
+547;Brück Mauspfad;50.9492867;7.0792717;bus
+547;Brück Mauspfad;50.9493107;7.0790013;bus
+548;Lehmbacher Weg Friedhof;50.9322888;7.0788718;bus
+549;Kleinfeldchensweg;50.9402078;7.0864415;bus
+549;Kleinfeldchensweg;50.9402;7.0859309;bus
+550;Bückebergstr.;50.9419204;7.0847818;bus
+550;Bückebergstr.;50.9417844;7.084557;bus
+551;Olpener Str.;50.9456981;7.0812104;bus
+551;Olpener Str.;50.9449331;7.0812274;bus
+552;Im Langen Bruch;50.9521118;7.0782792;bus
+553;Steinweg;50.9236788;7.0667682;bahn
+554;Porzer Str.;50.9216502;7.0750909;bahn
+555;Röttgensweg;50.920325;7.090107;bahn
+556;Rath-Heumar;50.9204272;7.080993;bahn
+557;Königsforst;50.9198421;7.0966258;bahn
+557;Königsforst;50.9198129;7.0974651;bus
+558;Schloss Röttgen;;;
+559;Eiler Str.;50.9171336;7.0814905;bus
+559;Eiler Str.;50.9171883;7.0816447;bus
+560;Alte Forststr.;50.9154717;7.0910565;bus
+561;Baldurstr.;50.9266831;7.0952813;bus
+561;Baldurstr.;50.9254365;7.0951494;bus
+562;Europaring;50.938045;7.0643596;bus
+562;Europaring;50.9390687;7.0616628;bus
+563;Straßburger Platz;50.9349387;7.0628163;bus
+563;Straßburger Platz;50.9359524;7.0589789;bus
+564;Ludwig-Quidde-Platz;50.9314688;7.0556411;bus
+565;Rösrather Str.;50.9283367;7.060299;bus
+565;Rösrather Str.;50.9292685;7.0597133;bus
+566;Auguste-Kowalski-Str.;51.0055507;7.0237915;bus
+567;Stegerwaldsiedlung;50.9486393;6.9933709;bahn
+568;Grünstr.;50.9557144;7.0003615;bahn
+569;Buchforst Waldecker Str.;50.9510055;7.005068;bahn
+569;Buchforst Waldecker Str.;50.9513551;7.0051552;bus
+569;Buchforst Waldecker Str.;50.951294;7.0047126;bus
+570;Mülheim Wiener Platz;50.9617267;7.0041676;bahn
+570;Mülheim Wiener Platz;50.9614325;7.0038334;bus
+570;Mülheim Wiener Platz;50.9611854;7.0034403;bus
+570;Mülheim Wiener Platz;50.9610721;7.0036121;bus
+570;Mülheim Wiener Platz;50.9613264;7.0059425;bus
+570;Mülheim Wiener Platz;50.9617943;7.005507;bus
+571;Montanusstr.;50.9629012;7.0125969;bus
+571;Montanusstr.;50.9631177;7.0130181;bus
+572;Bf Mülheim;50.9569237;7.0123265;bahn
+572;Bf Mülheim;50.9581447;7.0135864;bahn
+572;Bf Mülheim;50.9569581;7.0124058;bahn
+572;Bf Mülheim;50.9569407;7.0118802;bus
+572;Bf Mülheim;50.9571844;7.0118085;bus
+572;Bf Mülheim;50.9577218;7.0117755;bus
+572;Bf Mülheim;50.9576777;7.0118595;bus
+573;Graf-Adolf-Str.;50.9581415;7.0095433;bus
+573;Graf-Adolf-Str.;50.9583463;7.0097156;bus
+574;Kieler Str.;50.9556158;7.0041111;bus
+574;Kieler Str.;50.9561593;7.0049505;bus
+577;Buchheim Frankfurter Str.;50.9532104;7.0141194;bahn
+577;Buchheim Frankfurter Str.;50.9529092;7.0143412;bus
+577;Buchheim Frankfurter Str.;50.9525425;7.0142331;bus
+578;Buchheim Herler Str.;50.957931;7.0250953;bahn
+578;Buchheim Herler Str.;50.9582846;7.0254379;bus
+579;Wichheimer Str.;50.9612014;7.0309015;bahn
+579;Wichheimer Str.;50.9618343;7.0316426;bahn
+580;Gronauer Str.;50.9656889;7.0257581;bus
+580;Gronauer Str.;50.9656019;7.0263004;bus
+581;Rheinbergstr.;50.8506212;7.0125398;bus
+582;Beuthener Str.;50.9500186;7.0177262;bus
+582;Beuthener Str.;50.9498509;7.018466;bus
+583;Holweide Vischeringstr.;50.9668489;7.0389788;bahn
+583;Holweide Vischeringstr.;50.9661907;7.0378198;bahn
+584;Maria-Himmelfahrt-Str.;50.9678755;7.0447228;bahn
+585;Neufelder Str.;;;
+586;Holweide S-Bahn;50.9762147;7.0411943;bahn
+586;Holweide S-Bahn;50.976251;7.0411795;bahn
+586;Holweide S-Bahn;50.9765323;7.0437738;bus
+587;Grunerstr.;50.975985;7.049968;bus
+588;Kühzällerweg;50.975153;7.048554;bus
+589;Gerhart-Hauptmann-Str.;50.9732566;7.0496916;bus
+589;Gerhart-Hauptmann-Str.;50.9728045;7.0491259;bus
+590;Buschfeldstr.;50.9717778;7.04101;bus
+591;Burgwiesenstr.;50.9642957;7.0430914;bus
+591;Burgwiesenstr.;50.9642148;7.0431576;bus
+592;Colonia-Allee;50.9633668;7.0472201;bus
+592;Colonia-Allee;50.9632528;7.0472401;bus
+593;Schlagbaumsweg;50.9595676;7.0453142;bus
+593;Schlagbaumsweg;50.9593987;7.0450867;bus
+594;Dellbrück Mauspfad;50.9718403;7.0643739;bahn
+594;Dellbrück Mauspfad;50.972111;7.0654743;bahn
+595;Dellbrück Hauptstr.;50.9745821;7.0745352;bahn
+595;Dellbrück Hauptstr.;50.9750513;7.0751777;bahn
+595;Dellbrück Hauptstr.;50.9749123;7.0745524;bus
+595;Dellbrück Hauptstr.;50.9746435;7.0753066;bus
+596;Thielenbruch;50.9780785;7.0855043;bahn
+597;Eggerbachstr.;50.9551244;7.0502945;bus
+598;Ostfriedhof;50.9639026;7.0727388;bus
+598;Ostfriedhof;50.9640916;7.0728864;bus
+599;Siedlung Mielenforst;50.9667636;7.067523;bus
+599;Siedlung Mielenforst;50.966642;7.0682098;bus
+600;Thurner Kamp;50.9687382;7.074256;bus
+600;Thurner Kamp;50.9684349;7.0744454;bus
+601;Von-Quadt-Str.;50.9770078;7.0727635;bus
+601;Von-Quadt-Str.;50.9768456;7.0724417;bus
+602;Diepeschrather Str.;50.9864948;7.0676828;bus
+602;Diepeschrather Str.;50.9867914;7.067478;bus
+603;Anemonenweg;50.9818202;7.0684527;bus
+604;Dellbrück S-Bahn;50.9813178;7.0692682;bahn
+604;Dellbrück S-Bahn;50.9813582;7.0692658;bahn
+604;Dellbrück S-Bahn;50.9811152;7.0688356;bus
+604;Dellbrück S-Bahn;50.9812223;7.0691031;bus
+605;Neurather Weg;50.9790974;7.0208312;bus
+605;Neurather Weg;50.9793147;7.0214044;bus
+606;Im Weidenbruch;50.980661;7.0226678;bahn
+607;Am Emberg;50.9890901;7.0299033;bahn
+607;Am Emberg;50.9891926;7.0296478;bus
+607;Am Emberg;50.989005;7.0297052;bus
+608;Leuchterstr.;50.9961996;7.0374221;bahn
+608;Leuchterstr.;50.9957416;7.0387263;bus
+608;Leuchterstr.;50.9970151;7.0369437;bus
+608;Leuchterstr.;50.9967761;7.0370401;bus
+609;Odenthaler Str.;51.0011229;7.0421957;bahn
+609;Odenthaler Str.;51.001404;7.0424409;bahn
+609;Odenthaler Str.;51.0024235;7.0421389;bus
+609;Odenthaler Str.;51.0022311;7.042037;bus
+610;Honschaftsstr.;50.9811566;7.0320741;bus
+611;Am Springborn;50.9776638;7.0325438;bus
+612;Jasminweg;50.9786125;7.0397202;bus
+613;Sigwinstr.;50.982038;7.043682;bus
+614;Birkenweg;50.9843187;7.0415743;bus
+615;Höhscheider Weg;50.9877059;7.0417109;bus
+616;Lippeweg;50.9918705;7.0430954;bus
+617;Klosterhof;50.9998052;7.0331456;bus
+617;Klosterhof;50.9997566;7.0323712;bus
+618;Hildegundweg;51.0002989;7.0295146;bus
+618;Hildegundweg;51.0012938;7.0293477;bus
+619;Am Portzenacker;51.0040732;7.0297762;bus
+620;Leimbachweg;51.0066577;7.0277243;bus
+620;Leimbachweg;51.0067474;7.0272096;bus
+621;Paul-Reifenberg-Str.;51.0131035;6.9245956;bus
+621;Paul-Reifenberg-Str.;51.0136267;6.923805;bus
+622;Kalkweg;50.9902722;7.0554741;bus
+623;Wildpark;50.9925585;7.0481688;bus
+623;Wildpark;50.9927498;7.0483;bus
+624;An der Walkmühle;50.9972197;7.0455653;bus
+625;Steinstr. S-Bahn;50.8952875;7.0576899;bahn
+625;Steinstr. S-Bahn;50.8953913;7.0580007;bus
+625;Steinstr. S-Bahn;50.8953101;7.0578668;bus
+626;Mutzbach;50.9989976;7.034304;bus
+627;Am Weißen Mönch;50.9979777;7.0259277;bus
+628;Bornheim Rathaus;;;
+629;Goldregenweg;50.979338;7.049033;bus
+630;Aeltgen-Dünwald-Str.;51.003616;7.024947;bus
+631;Keupstr.;50.9662686;7.0067891;bahn
+631;Keupstr.;50.966468;7.0065168;bus
+631;Keupstr.;50.9666296;7.0062323;bus
+632;Von-Sparr-Str.;50.9703603;7.0113124;bahn
+632;Von-Sparr-Str.;50.9718253;7.0105734;bus
+632;Von-Sparr-Str.;50.9713141;7.0098291;bus
+633;Mülheim Berliner Str.;50.9750408;7.0147628;bahn
+633;Mülheim Berliner Str.;50.9745705;7.0145273;bus
+633;Mülheim Berliner Str.;50.9752708;7.0146877;bus
+633;Mülheim Berliner Str.;50.9749749;7.0142713;bus
+634;Dünnwalder Str.;50.9688349;7.0068662;bus
+634;Dünnwalder Str.;50.9687287;7.0064993;bus
+635;Von-Lohe-Str.;50.9732563;7.0060323;bus
+635;Von-Lohe-Str.;50.9735863;7.0062985;bus
+636;Am Faulbach;50.9787916;7.0029033;bus
+636;Am Faulbach;50.9794374;7.0029251;bus
+637;Neuer Mülheimer Friedhof;50.9850282;7.004514;bus
+638;Bruder-Klaus-Siedlung;50.9816998;7.0083069;bus
+638;Bruder-Klaus-Siedlung;50.9818304;7.0082796;bus
+639;Von-Galen-Str.;50.979063;7.0128124;bus
+639;Von-Galen-Str.;50.9787461;7.0134165;bus
+640;Moses-Hess-Str.;50.9855004;6.9993979;bus
+640;Moses-Hess-Str.;50.9866688;6.9998013;bus
+641;Stammheimer Ring;50.9891394;6.9975416;bus
+641;Stammheimer Ring;50.9889952;6.9974305;bus
+641;Stammheimer Ring;50.988769;6.9993244;bus
+641;Stammheimer Ring;50.9877784;6.9920258;bus
+642;Bonhoefferstr.;50.9860224;6.9921224;bus
+643;Sparkasse;;;
+644;Friedhof Stammheim;50.9877784;6.9920258;bus
+645;Egonstr.;50.9908535;6.9859139;bus
+645;Egonstr.;50.9907853;6.9861827;bus
+646;Barbarastr.;50.9692784;6.9787679;bus
+646;Barbarastr.;50.9691812;6.9785209;bus
+647;Flittard Süd;50.9986169;6.9951364;bus
+647;Flittard Süd;50.9986248;6.9970042;bus
+647;Flittard Süd;50.9982804;6.9966716;bus
+647;Flittard Süd;50.9986856;6.9950945;bus
+648;Flittarder Feld;51.007604;6.994116;bus
+649;Am Feldrain;50.9972265;6.9814295;bus
+650;Edelhofstr.;51.0009347;6.9802389;bus
+650;Edelhofstr.;51.000978;6.9799814;bus
+651;Welserstr.;50.9142964;7.0610794;bus
+651;Welserstr.;50.9140259;7.0607576;bus
+652;Nibelungenstr.;50.8534854;7.1047011;bus
+653;Ebertplatz/Riehler Str.;50.9509016;6.957991;bus
+654;Wiedstr.;50.9272316;7.0079603;bus
+654;Wiedstr.;50.9261191;7.0085862;bus
+655;Im Hoppenkamp;;;
+656;Sportplatzstr.;50.8597822;7.1021139;bus
+657;Frankfurter Str. S-Bahn;;;
+658;Marienplatz;50.884908;7.080219;bus
+659;Vitalisstr. Nord;50.951219;6.894676;bus
+661;Gunther-Plüschow-Str.;50.9799295;6.8848853;bus
+662;Eddaweg;50.9766041;7.0351665;bus
+663;Schlebusch;;;
+665;Bensberg;;;
+666;Kölner Str.;;;
+667;Neuenweg;;;
+668;Lustheide;;;
+669;Refrath;;;
+670;Kippekausen;;;
+671;Frankenforst;;;
+672;Roisdorf West;;;
+673;Bornheim;;;
+674;Dersdorf;;;
+675;Waldorf;;;
+676;Merten;;;
+677;Walberberg;;;
+678;Hersel;;;
+679;Uedorf;;;
+680;Widdig;;;
+681;Alfter / Alanus Hochschule;;;
+682;Friedhof Lehmbacher Weg;50.9326789;7.0914564;bus
+682;Friedhof Lehmbacher Weg;50.9326408;7.091289;bus
+683;Museum Koenig;;;
+684;Bundesrechnungshof;;;
+685;Juridicum;;;
+686;Universitaet/Markt;;;
+687;Bonn Hauptbahnhof;;;
+688;Bonn West;;;
+689;Brühler Straße;;;
+690;Deutsche Telekom/ Olof-Palme-Allee;;;
+691;Deutsche Telekom/ Ollenhauerstraße;;;
+692;Heussallee/Museumsmeile;;;
+693;Tannenbusch Süd;;;
+694;Tannenbusch Mitte;;;
+695;Buschdorf;;;
+696;Robert-Kirchhoff-Straße;;;
+697;Dransdorf;;;
+698;Max-Löbner-Str./Friesdorf;;;
+699;Hochkreuz;;;
+700;Wurzerstraße;;;
+701;Plittersdorfer Straße;;;
+702;Weiden West S-Bahn;;;
+703;Porz-Langel Süd;50.840671;7.006875;bus
+704;Sinnersdorf Kirche;;;
+705;Am Zehnthof;;;
+706;Kesselsgasse;;;
+707;Hücheln Krankenhaus;;;
+708;Frechen-Benzelrath;;;
+709;Mühlengasse;;;
+710;Frechen Rathaus;;;
+711;Frechen Kirche;;;
+712;Frechen Bf;;;
+713;Haus Vorst;50.9157291;6.8484318;bahn
+714;Im Klarenpesch;;;
+715;Dr.-Schultz-Str.;;;
+716;Kapfenberger Str.;;;
+717;Freiheitsring;;;
+718;Hüchelner Str.;;;
+719;Schokoladenmuseum;50.932759;6.962833;bus
+720;Elisabethstr.;;;
+721;Rotdornweg;;;
+722;Gut Neuenhof;;;
+723;Grachtenhofstr.;;;
+724;Mauritiusschule;;;
+725;Lahnstr.;;;
+726;Lindenbuschweg;;;
+727;Wilhelm-Leuschner-Str.;;;
+728;Carl-Goerdeler-Str.;;;
+729;Imbuschstr.;;;
+730;Efferen;;;
+731;Fischenich;;;
+732;Kiebitzweg;;;
+733;Hürth-Hermülheim;;;
+734;Brühl Nord;;;
+735;Brühl Mitte;;;
+736;Brühl Süd;;;
+737;Badorf;;;
+738;Brühl-Vochem;;;
+739;Schwadorf;;;
+740;Wesseling Süd;;;
+741;Wesseling;;;
+742;Wesseling Nord;;;
+743;Urfeld;;;
+744;Rheinauhafen;50.9249803;6.9653245;bus
+744;Rheinauhafen;50.9250611;6.9656024;bus
+745;Luftfracht Köln/Bonn;50.875966;7.113402;bus
+746;Johannesstr.;50.998737;6.877648;bus
+747;Mozartstr.;51.001194;6.873926;bus
+748;Kapellenweg;51.001146;6.87676;bus
+749;Friedhof Worringen;51.063128;6.860785;bus
+750;Nippes S-Bahn;50.9586043;6.9417823;bahn
+750;Nippes S-Bahn;50.958602;6.9416432;bahn
+750;Nippes S-Bahn;50.9581255;6.9409272;bus
+750;Nippes S-Bahn;50.9584437;6.9412132;bus
+750;Nippes S-Bahn;50.958339;6.9411811;bus
+751;Ramrather Weg;51.067421;6.851548;bus
+752;Kierberger Str.;;;
+753;Metternicherstr.;;;
+754;Auf der Freiheit;50.856932;6.923319;bus
+755;Albrecht-Dürer-Platz;;;
+756;Innere Kanalstr.;50.9409273;6.9230252;bus
+756;Innere Kanalstr.;50.9407971;6.9230681;bus
+757;Zündorf Marktstr.;50.8684523;7.0446659;bus
+758;Zündorf Kirche;50.8663399;7.0415963;bus
+759;Zündorf Altersheim;50.8631377;7.0368744;bus
+760;Zündorf Mitte;50.8663614;7.0452364;bus
+761;Zündorf Olefsgasse;50.8634171;7.0410474;bus
+762;Zündorf Ranzeler Str.;50.8607499;7.0372045;bus
+763;Oberzündorf;50.8606623;7.0336232;bus
+764;Porz-Langel Nord;50.8563327;7.0255437;bus
+765;Porz-Langel Mühle;50.852984;7.018601;bus
+766;Porz-Langel Zur Eiche;50.8485891;7.0095958;bus
+767;Porz-Langel Kirche;50.8447194;7.007538;bus
+768;Schadowstr.;50.9537077;6.9278634;bus
+768;Schadowstr.;50.9536441;6.9277018;bus
+768;Schadowstr.;50.9536633;6.9276662;bus
+768;Schadowstr.;50.9536464;6.9278217;bus
+769;Methweg;50.9567238;6.9352829;bus
+769;Methweg;50.9566065;6.935407;bus
+770;Schirmerstr.;50.9543086;6.9294017;bus
+770;Schirmerstr.;50.9543804;6.9295836;bus
+771;Mechternstr.;50.9426467;6.9187787;bus
+771;Mechternstr.;50.9425751;6.9187283;bus
+772;Pettenkoferstr.;50.9561392;6.9336897;bus
+772;Pettenkoferstr.;50.9560176;6.9338372;bus
+773;Mülhauser Str.;50.9750366;6.9294787;bus
+773;Mülhauser Str.;50.9749792;6.9296557;bus
+774;Escher See;51.006958;6.868962;bus
+775;Am Braunsacker;51.0118529;6.8620155;bus
+775;Am Braunsacker;51.0121737;6.8613357;bus
+777;Reiherstr.;50.875755;6.960205;bus
+778;Stolberger Str.;50.941802;6.907087;bus
+779;Buchforst S-Bahn;50.9534865;7.0043692;bahn
+779;Buchforst S-Bahn;50.953366;7.0044361;bus
+779;Buchforst S-Bahn;50.9534147;7.0043603;bus
+780;Rodenkirchen Bismarckstr.;50.890405;7.00846;bus
+781;Gewerbegebiet Pesch Nord;;;
+783;Bonntor;50.914453;6.9623942;bus
+784;Beuelsweg Nord;50.962749;6.958568;bus
+785;Oberländer Wall;;;
+786;Indianapolis-Straße;50.9680813;6.8412575;bus
+787;Am Schildchen;50.945592;7.06983;bus
+788;August-Horch-Str.;50.9091225;7.0508219;bus
+788;August-Horch-Str.;50.9091214;7.0508245;bus
+789;Trifelsstr.;50.9726586;6.9339848;bus
+789;Trifelsstr.;50.9727464;6.9341511;bus
+790;Hansestr. West;50.9117739;7.0540398;bus
+791;Weiden Einkaufszentrum;;;
+792;Cheruskerstr.;50.9011243;7.0550621;bus
+793;Im Wichemshof;51.0432209;6.8499675;bus
+794;Dünnwald Waldbad;;;
+795;Im Wirtskamp;50.9981153;7.0516409;bus
+796;Gebr.- Coblenz-Str.;;;
+797;Totilastr.;50.933319;6.982203;bus
+798;Reischplatz;50.936466;6.977888;bus
+799;TÜV-Akademie;50.924588;6.99418;bus
+800;Mülheimer Ring;50.9649041;7.0220494;bus
+800;Mülheimer Ring;50.9644987;7.0207664;bus
+801;Imbacher Weg;50.9940338;7.0408697;bus
+802;Hahnwald Im Hasengarten;;;
+803;Birkenweg Schleife;50.9840597;7.0414446;bus
+804;Zur Abtei;50.959919;6.831731;bus
+805;Talweg;50.9037477;7.0529083;bus
+806;Thermalbad;50.9506364;6.9806745;bahn
+806;Thermalbad;50.9502502;6.982125;bus
+806;Thermalbad;50.9501867;6.9821739;bus
+806;Thermalbad;50.9505776;6.9808219;bus
+807;Zum Neuen Kreuz;;;
+808;Rosmarinweg;50.962754;6.841276;bus
+809;Palmenhof;50.965905;6.841931;bus
+810;Arenzhof;51.0411987;6.900638;bus
+810;Arenzhof;51.0409424;6.9007024;bus
+811;Weilerweg;51.019878;6.886506;bus
+812;Arthur-Hantzsch-Str.;50.9999901;6.9895461;bus
+812;Arthur-Hantzsch-Str.;51.0000705;6.9895859;bus
+812;Arthur-Hantzsch-Str.;50.9999301;6.9894743;bus
+813;Stammheim S-Bahn;50.9900174;7.0019274;bahn
+813;Stammheim S-Bahn;50.9898426;7.0007055;bus
+813;Stammheim S-Bahn;50.989771;7.0008038;bus
+814;Bayerwerk S-Bahn;;;
+815;Osterather Str.;50.9585962;6.9394095;bus
+816;Trimbornstr.;50.9358419;6.9970539;bahn
+816;Trimbornstr.;50.9350217;6.9981506;bus
+816;Trimbornstr.;50.9350217;6.9981506;bus
+816;Trimbornstr.;50.9350469;6.9972444;bus
+816;Trimbornstr.;50.9350469;6.9972444;bus
+817;Leopold-Gmelin-Str.;51.0010281;6.9866609;bus
+817;Leopold-Gmelin-Str.;51.0011905;6.9864363;bus
+817;Leopold-Gmelin-Str.;51.0010217;6.9863397;bus
+818;Nesselrodestr.;50.9773958;6.9688305;bahn
+819;Sprengelstr.;50.9683125;6.9691764;bus
+820;Niehler Kirchweg;50.9735291;6.9561858;bus
+821;Gauweg;50.9624849;7.0273709;bus
+821;Gauweg;50.9624619;7.0271923;bus
+822;Pasteurstr.;50.9725662;6.9761115;bus
+822;Pasteurstr.;50.9714966;6.9772182;bus
+823;Göttinger Str.;50.93555;6.8397299;bus
+823;Göttinger Str.;50.93555;6.8397299;bus
+824;St. Vinzenz-Hospital;;;
+825;Wilhelmstr.;50.9626517;6.9502427;bus
+825;Wilhelmstr.;50.9628601;6.9504366;bus
+826;Cranachstr.;50.961177;6.954038;bus
+827;Beuelsweg;50.962978;6.960139;bus
+828;Kuenstr.;50.96138;6.963252;bus
+829;Schneider-Clauss-Str.;50.961136;6.958991;bus
+830;Bahnstr.;50.9381458;6.84464;bahn
+831;Klinikum Merheim;50.9393201;7.0495207;bus
+831;Klinikum Merheim;50.939164;7.0491842;bus
+832;Auf dem Streitacker;50.9066583;7.0564608;bus
+832;Auf dem Streitacker;50.9067002;7.0562334;bus
+833;Lessingstr.;50.9558756;6.9149964;bus
+833;Lessingstr.;50.9558853;6.9146994;bus
+834;Marienstr.;50.9583016;6.9083538;bus
+835;Bf Ehrenfeld;50.9515601;6.9173475;bahn
+835;Bf Ehrenfeld;50.9520589;6.9188742;bus
+835;Bf Ehrenfeld;50.9523836;6.9188106;bus
+836;Takustr.;50.9570786;6.9120249;bus
+837;Zonser Str.;50.9596717;6.9501911;bus
+837;Zonser Str.;50.9587276;6.9490721;bus
+838;Friedrich-Karl-Str./Neusser Str.;50.975273;6.9496328;bus
+838;Friedrich-Karl-Str./Neusser Str.;50.9751262;6.949299;bus
+839;Stommeler Str.;50.9989076;6.911996;bus
+839;Stommeler Str.;50.9989319;6.9123951;bus
+840;Immendorf Schule;50.856266;6.962333;bus
+841;Am Nordpark;51.0029654;6.9332501;bus
+842;Gisbertstr.;50.9873776;6.9920699;bus
+843;LVR-Klinik;50.9360947;7.0519911;bus
+845;Melli-Beese-Str.;;;
+846;Wiso-Fakultät;50.9310111;6.9288273;bus
+846;Wiso-Fakultät;50.9311368;6.9296489;bus
+847;Lindenweg;50.8811715;6.9623688;bus
+848;TechnologiePark Mitte;;;
+849;Franziska-Anneke-Str.;50.972236;6.9140409;bus
+849;Franziska-Anneke-Str.;50.9720802;6.9140928;bus
+850;Prälat-van-Acken-Str.;50.9251751;6.8968264;bus
+851;Amselstr.;50.996476;7.038408;bus
+852;Am Serviesberg;50.9420187;6.879317;bus
+853;Morsestr.;51.0380063;6.9224791;bus
+854;Marconistr.;51.0338909;6.9284873;bus
+855;Feldkasseler Weg;51.0343092;6.9234876;bus
+855;Feldkasseler Weg;51.0352133;6.9230799;bus
+856;Florenzer Str.;51.0222746;6.8928472;bus
+856;Florenzer Str.;51.0223555;6.8926326;bus
+857;Esch Friedhof;51.016693;6.859183;bus
+858;Marconistr. Ost;51.035834;6.9290237;bus
+859;Güterverkehrszentrum;50.8876367;6.9242681;bus
+860;Longericher Str./Etzelstr.;50.9781692;6.9285483;bus
+861;Hugo-Junkers-Str.;50.9879243;6.909861;bus
+861;Hugo-Junkers-Str.;50.9872861;6.9105315;bus
+862;Glashüttenstr.;50.888744;7.060838;bus
+863;Klingerstr.;50.883677;7.062541;bus
+864;Flughafen Verwaltung;;;
+866;Bachemer Str.;50.930517;6.9265165;bus
+866;Bachemer Str.;50.9306049;6.9269618;bus
+867;Edmund-Rumpler-Str.;;;
+868;Hopfenstr.;50.9421269;7.0547093;bus
+868;Hopfenstr.;50.9420157;7.0547976;bus
+869;Ranzel Weilerhof;;;
+870;Heinrich-Steinmann-Str.;;;
+871;IKEA Godorf;50.8614845;6.9743272;bus
+872;Bistritzer Str.;50.9310738;6.8430022;bus
+872;Bistritzer Str.;50.9310738;6.8430022;bus
+873;Wattstr.;50.9314714;7.0009255;bus
+873;Wattstr.;50.9314714;7.0009255;bus
+873;Wattstr.;50.9320477;7.0008717;bus
+873;Wattstr.;50.9320477;7.0008717;bus
+874;Am Vorgebirgstor;50.9152347;6.9463912;bus
+874;Am Vorgebirgstor;50.9148221;6.946756;bus
+875;Justizzentrum;50.9224165;6.9380794;bus
+875;Justizzentrum;50.9221186;6.9381326;bus
+876;Südbahnhof;50.9267449;6.9377278;bus
+877;Am Leinacker;50.9645442;7.0621697;bus
+877;Am Leinacker;50.9644567;7.0622769;bus
+878;Heinz-Kühn-Str.;50.9660505;7.0600114;bus
+878;Heinz-Kühn-Str.;50.9659908;7.0602896;bus
+879;Roteichenweg;50.968048;7.0681257;bus
+879;Roteichenweg;50.967997;7.0681013;bus
+880;Freiligrathstr.;50.9196222;6.904547;bus
+881;Weserpromenade;51.03277;6.888605;bus
+882;Neißestr.;51.029988;6.893883;bus
+883;Havelstr.;51.026982;6.88848;bus
+884;Habichtstraße;50.8757095;6.9574637;bus
+884;Habichtstraße;50.8757095;6.9574637;bus
+885;Neven DuMont Haus;50.9744384;6.9698879;bus
+886;Schulzentrum Wahn;50.8629844;7.0894292;bus
+887;Scheuermühlenstr.;50.8573341;7.1082441;bus
+887;Scheuermühlenstr.;50.8587388;7.1080248;bus
+888;Kaserne Haupttor;50.8557049;7.1129141;bus
+888;Kaserne Haupttor;50.8558838;7.1126579;bus
+889;An der alten Post;;;
+890;Deutzer Friedhof;50.925505;6.992066;bus
+891;Schanzenstr.;50.966577;7.009853;bus
+892;Köln/Bonn Flughafen;50.878866;7.119301;bahn
+895;Schumacherring;50.9841206;6.8703306;bus
+897;Heinrich-Lübke-Ufer;50.8998399;6.9848807;bahn
+898;Am Hochkreuz;50.902782;7.060304;bus
+899;Am Coloneum;50.989281;6.892089;bus
+900;CöllnParc;50.9769551;6.9216627;bus
+900;CöllnParc;50.9772186;6.9212818;bus
+901;Voltastr.;50.883203;7.071114;bus
+903;Sparkasse Am Butzweilerhof;50.9850581;6.8877605;bahn
+904;Grüner Weg;;;
+905;Am Feldrain (Sürth);;;
+908;Oper im Palladium;50.9692757;7.0165726;bus
+909;Celsiusstr.;50.8819958;7.0678195;bus
+909;Celsiusstr.;50.8822615;7.0676598;bus
+910;Belvederestr.;50.9502843;6.8684725;bus
+910;Belvederestr.;50.9503789;6.8677268;bus
+911;Carlswerkstraße;50.964808;7.017929;bus
+913;Volksgarten;;;
+914;Zugweg;;;
+916;Paul-Nießen-Str.;;;
+918;Im Rheintal;;;
+919;Lüderichstr.;50.9281248;7.0024565;bus
+976;IKEA Am Butzweilerhof;50.9822922;6.8936512;bahn
+978;Josephstr.;;;
+979;Katharinenhof;;;
+981;Btf. Merheim;;;
