@@ -32,13 +32,13 @@ end
 desc "Creates a JSON file"
 task :json do
   puts "Generating JSON"
-  File.write("kvb_stops.json", csv_to_hash.values.to_json + "\n")
+  File.write("kvb_stops.json", JSON.pretty_generate(csv_to_hash.values) + "\n")
 end
 
 desc "Create a KML file"
 task :kml do
   puts "Generating KML"
-  builder = Builder::XmlMarkup.new
+  builder = Builder::XmlMarkup.new(indent: 2)
   builder.instruct! :xml, :version=>"1.0", :encoding=>"UTF-8"
 
   xml = builder.kml("xmlns"=>"http://www.opengis.net/kml/2.2") do |kml|
