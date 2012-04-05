@@ -16,10 +16,12 @@ Some stations don't have a coordinate. Those stations could not be
 automatically matched with the openstreetmap data. I will fix those
 soon.
 
-## KML and other formats
+## Other formats for the data
 
-I will add a little converter script that creates different output
-formats in the next days. Stay tuned.
+The csv file is the main data file. All other files are generated from
+that file. You can regenerate the other files using rake. If you need
+other formats or want to enhance the current converters, feel free to
+fork this project and send me a pull request!
 
 ## Forking
 
