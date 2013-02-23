@@ -1,0 +1,809 @@
+1;"Heumarkt";11110
+2;"Neumarkt";11111
+3;"Poststr.";11112
+4;"Mauritiuskirche";11113
+5;"Gürzenichstr.";11150
+6;"Rathaus";11151
+7;"Appellhofplatz";11209
+8;"Dom / Hbf";11201
+9;"Breslauer Platz/Hbf";11212
+11;"Severinstr.";11311
+12;"Waidmarkt";11352
+13;"Rosenstr.";11354
+14;"Silbermöwenweg";14549
+15;"Severinskirche";11355
+17;"Ubierring";11410
+18;"Chlodwigplatz";11411
+19;"Ulrepforte";11412
+20;"Alteburger Wall";11451
+21;"Eifelplatz";11509
+22;"Eifelstr.";11510
+23;"Barbarossaplatz";11511
+24;"Zülpicher Platz";11512
+25;"Dasselstr./Bf Süd";11513
+26;"Eifelwall";11514
+27;"Rudolfplatz";11610
+28;"Moltkestr.";11611
+29;"Roonstr.";11651
+30;"Friesenplatz";11710
+31;"Hans-Böckler-Platz/Bf West";11701
+32;"Christophstr./Mediapark";11712
+34;"Reichenspergerplatz";11809
+35;"Ebertplatz";11810
+36;"Hansaring";11801
+37;"Worringer Str.";11851
+38;"Krefelder Wall";11852
+39;"Deutzer Freiheit";11909
+40;"Suevenstr.";11910
+41;"Bf Deutz / Messe  LANXESS arena";11901
+42;"Koelnmesse";11912
+44;"Deutz-Kalker Bad";11914
+45;"Severinsbrücke";11916
+46;"Drehbrücke";11917
+47;"Poller Kirchweg";11918
+48;"Betzdorfer Str.";11951
+51;"Im Rheinpark";11953
+52;"Pohligstr.";12011
+53;"Herthastr.";12012
+54;"Gottesweg";12013
+56;"Zollstockgürtel";12015
+57;"Zollstock Südfriedhof";12016
+58;"Zollstocksweg";12051
+59;"Roisdorfer Str.";12052
+60;"Kendenicher Str.";12053
+61;"Oberer Komarweg";12054
+62;"Brüggener Str.";12055
+63;"Bernkasteler Str.";12061
+64;"Rheinsteinstr.";12151
+65;"Schönhauser Str.";12211
+66;"Marktstraße";12250
+67;"Koblenzer Str.";12222
+68;"Tacitusstr.";12254
+69;"Mannsfeld";12251
+70;"Cäsarstr.";12252
+71;"Leichweg";12351
+72;"Liblarer Str.";12352
+73;"Heeresamt";12353
+74;"Brühler Str./Gürtel";12361
+75;"Wasserwerk";12371
+76;"Bayenthalgürtel";12410
+78;"Goltsteinstr./Gürtel";12421
+79;"Marienburger Str.";12422
+80;"Marienburg Südpark";12423
+81;"Bonner Str./Gürtel";12452
+82;"Gaedestr.";12453
+83;"Leyboldstr.";12454
+84;"Arnoldshöhe";12455
+85;"Am Kölnberg";12551
+86;"Meschenich Kirche";12552
+87;"Engeldorfer Str.";12553
+88;"Frankenstr.";12554
+89;"Engeldorfer Hof";12555
+90;"Kettelerstr.";12557
+91;"Josef-Lammerting-Allee";13550
+92;"Höningen Rondorfer Weg";12561
+93;"Höningen Siedlung";12562
+94;"Bonner Landstr.";12651
+95;"Hochkirchen";12652
+96;"Lerchenweg";12653
+97;"Rondorf";12654
+98;"Bödinger Str.";12655
+99;"Westerwaldstr.";12656
+101;"Am Steinneuerhof";12658
+102;"Friedhof Steinneuerhof";12659
+103;"Kirschbaumweg";12661
+104;"Mannesmannstr.";12662
+105;"Hahnwald";12665
+106;"Rodenkirchen Bf";12711
+107;"Siegstr. (Stadtbahn)";12712
+108;"Michaelshoven";12713
+109;"Maternusplatz";12751
+110;"Frankstr.";12752
+111;"Rodenkirchen Rathaus";12753
+112;"Grimmelshausenstr.";12754
+114;"Uferstr.";12756
+115;"Campingplatz";12757
+116;"Siegfriedstr.";12761
+117;"Grüngürtelstr.";12763
+118;"Richard-Wagner-Str.";12764
+119;"Adolf-Menzel-Str.";12765
+120;"Konrad-Adenauer-Str.";12771
+121;"Schwabenstr.";12772
+122;"Schillingsrotter Str.";12773
+123;"Am Neuen Forst";12774
+124;"Sürth Bf";12811
+125;"Wesselinger Str.";12851
+126;"Marktplatz Sürth";12852
+127;"Kölnstr.";12853
+128;"Ernst-Volland-Str.";12854
+129;"Hammerschmidtstr.";12855
+130;"Ritterstr.";12856
+131;"Weißer Hauptstr.";12857
+132;"Weiß Friedhof";12858
+133;"Zum Hedelsberg";12859
+134;"Godorf Bf";12911
+135;"Pierstr.";12950
+136;"Otto-Hahn-Str.";12951
+137;"Bunsenstr.";12952
+138;"Friedhof Godorf";12953
+139;"Immendorf Siedlung";12954
+140;"Immendorf";12955
+141;"Zaunhof";12956
+142;"Mohnweg";13706
+143;"Universitätsstr.";13011
+144;"Melaten";13012
+145;"Hildegardis-Krankenhaus";13051
+146;"Geibelstr.";13052
+147;"Leiblplatz";13053
+148;"Karl-Schwering-Platz";13056
+149;"Theresienstr.";13057
+150;"Weißhausstr.";13111
+151;"Arnulfstr.";13112
+152;"Sülzburgstr.";13113
+153;"Universität";13121
+154;"Weyertal";13122
+155;"Lindenburg (Universitätskliniken)";13123
+156;"Konradstr.";13131
+157;"Sülzburgstr./Berrenrather Str.";13152
+159;"Rhöndorfer Str.";13161
+160;"Sülzgürtel";13211
+162;"Berrenrather Str./Gürtel";13213
+163;"Euskirchener Str.";13214
+164;"Zülpicher Str./Gürtel";13215
+165;"Mommsenstr.";13216
+166;"Sülz Hermeskeiler Platz";13217
+167;"Klettenbergpark";13221
+168;"Siebengebirgsallee";13252
+169;"Wüllnerstr.";13310
+170;"Dürener Str./Gürtel";13311
+171;"Kitschburger Str.";13312
+172;"Brahmsstr.";13313
+173;"Gleueler Str./Gürtel";13321
+174;"Hohenlind";13353
+175;"Krieler Str.";13355
+176;"Koppensteinstr.";13356
+177;"Deckstein";13357
+178;"Aachener Str./Gürtel";13411
+179;"Maarweg";13412
+180;"Clarenbachstift";13413
+181;"Eupener Str.";13414
+182;"Oskar-Jäger-Str./Gürtel";13421
+183;"Stolberger Str./Eupener Str.";13461
+184;"Stolberger Str./Maarweg";13462
+185;"Müngersdorf S-Bahn Technologiepark";13501
+186;"Alter Militärring";13511
+187;"Rheinenergie-Stadion";13512
+188;"Wendelinstr.";13551
+189;"Herrigergasse";13552
+190;"Kämpchensweg";13553
+191;"Am Lindenweg";13555
+192;"Flachsweg";13556
+193;"Leinsamenweg";13557
+194;"Roggenweg";13558
+195;"Vitalisstr. Süd";13560
+196;"Widdersdorfer Str.";13561
+197;"Technologiepark Köln";13562
+198;"Schwindstr.";13571
+199;"Böcklinstr.";13572
+200;"Junkersdorf";13611
+203;"Birkenallee";13654
+204;"Kölner Weg";13655
+205;"Sterrenhofweg";13656
+206;"Beethovenstr.";13657
+207;"Südallee";13661
+209;"Wiener Weg";13663
+211;"Egelspfad";13671
+212;"Bf Lövenich";13701
+213;"Seithümerstr.";13752
+214;"Dieselstr.";13753
+215;"Zaunstr.";13755
+216;"An der Ronne";13756
+217;"Spitzangerweg";13757
+218;"Saarstr.";13758
+219;"Severinusstr.";13759
+220;"Braugasse";13760
+221;"Selma-Lagerlöf-Str.";13761
+222;"Frechener Weg";13762
+223;"Üsdorf";13763
+224;"Weiden Sportplatz";13765
+225;"Stormstr.";13766
+227;"Ostlandstr.";13771
+228;"Rosenhügel";17614
+229;"Diepenbeekallee";13773
+230;"Im Buschfelde";13851
+231;"Widdersdorf";13852
+232;"Adrian-Meller-Str.";13853
+233;"Blaugasse";13854
+234;"Stüttgenhof";13911
+235;"Marsdorf";13912
+236;"Piusstr.";14011
+237;"Körnerstr.";14012
+238;"Gutenbergstr.";14021
+239;"Liebigstr.";14022
+241;"Weiden Schulstr.";13709
+242;"Schaffrathsgasse";14612
+243;"Walter-Pauli-Ring";18050
+244;"Willi-Lauf-Allee";13666
+245;"Subbelrather Str./Gürtel";14111
+246;"Nußbaumerstr.";14112
+247;"Lenauplatz";14113
+249;"Iltisstr.";14115
+250;"Butzweilerstr.";14151
+251;"Venloer Str./Gürtel";14211
+252;"Eichenstr.";13665
+253;"Geisselstr.";14097
+254;"Weinsbergstr./Gürtel";14221
+255;"Leyendeckerstr.";14212
+256;"Borsigstr.";14251
+257;"Bf Deutz/Messeplatz";11950
+258;"Oskar-Jäger-Str.";14260
+259;"Karnevalsmuseum";14261
+260;"Vogelsanger Str./Maarweg";14263
+261;"Weiden Zentrum";13708
+262;"Äußere Kanalstr.";14310
+263;"Alter Deutzer Postweg";18492
+264;"Akazienweg";14312
+265;"Vogelsanger Str.";14351
+266;"Häuschensweg";14352
+267;"Feltenstr.";14353
+268;"Emilstr.";14354
+269;"Erlenweg";14355
+270;"Mühlenweg";14459
+271;"Ossendorf";14450
+272;"Rektor-Klein-Str.";14412
+273;"Margaretastr.";14413
+274;"Alter Flughafen Butzweilerhof";14416
+275;"Hugo-Eckener-Str.";14452
+276;"Bleriotstr.";14453
+277;"Von-Hünefeld-Str.";14454
+278;"Mathias-Brüggen-Str.";14455
+282;"Wolffsohnstr.";14511
+283;"Westfriedhof";14512
+284;"Lacher Broch";19464
+285;"Kolkrabenweg";14551
+286;"Steinkauzweg";14552
+287;"Bachstelzenweg";14553
+288;"Goldammerweg";14554
+289;"Vogelsanger Markt";14555
+290;"Falkenweg";14556
+291;"Bocklemünd";14611
+292;"WDR";14651
+293;"Grevenbroicher Str.";14661
+294;"Nattermannallee";14662
+295;"Dohmengasse";14663
+296;"Kochwiesenstr.";19465
+297;"Auweilerweg";14665
+298;"Ollenhauerring";14671
+299;"Nüssenberger Str.";14672
+300;"Görlinger Zentrum";14673
+301;"Heinrich-Mann-Str.";14674
+302;"Buschweg";14664
+303;"Neusser Str./Gürtel";15011
+304;"Florastr.";15012
+305;"Lohsestr.";15013
+306;"Nordstr.";15051
+307;"Leipziger Platz";15052
+308;"Niehler Str.";15053
+309;"Kretzerstr.";15054
+310;"Bergstr.";15350
+311;"Sechzigstr.";15062
+312;"Merheimer Platz";15063
+313;"Zoo/Flora";15111
+314;"Boltensternstr.";15112
+315;"Slabystr.";15113
+316;"Kinderkrankenhaus";15120
+317;"Amsterdamer Str./Gürtel";15121
+318;"Bodinusstr.";15151
+319;"Riehler Gürtel";15152
+320;"Seniorenzentrum Riehl";15153
+323;"Xantener Str.";15156
+324;"Hahnwaldweg";12663
+325;"Geldernstr./Parkgürtel";15201
+326;"Escher Str.";15222
+327;"Nievenheimer Str.";15251
+328;"Ludwigsburger Str.";15252
+329;"Frankenthaler Str.";15253
+330;"Ebernburgweg";15254
+331;"Alzeyer Str.";15255
+332;"Am Bilderstöckchen";15257
+334;"Robert-Perthel-Str.";15259
+335;"Longericher Str. Nord";15260
+336;"Mollwitzstr.";15311
+337;"Scheibenstr.";15312
+338;"Nordfriedhof";15351
+339;"Nibelungenplatz";15352
+340;"Schmiedegasse";15353
+341;"Etzelstr.";15354
+342;"Niehl";15411
+343;"Niehl Sebastianstr.";15413
+345;"Friedrich-Karl-Str./Niehler Str.";15451
+346;"Drosselweg";15452
+347;"Weidenpescher Str.";15453
+348;"Graditzer Str.";15454
+349;"Merkenicher Str.";15455
+350;"Halfengasse";15456
+351;"Niehler Damm";15457
+352;"Riehl Betriebshof Nord";15461
+353;"Am Waldpark";12664
+354;"St.-Joseph-Kirche";12762
+355;"Meerfeldstr.";15510
+356;"Longericher Str.";15511
+357;"Longerich Friedhof";15512
+358;"Longerich S-Bahn";15501
+359;"Lindweilerweg";15553
+360;"Dionysstr.";15554
+361;"Dädalusring";15555
+362;"Wilhelm-Sollmann-Str.";15611
+363;"Altonaer Platz";15612
+364;"Herforder Str.";15613
+365;"Bremerhavener Str.";15651
+366;"Esso";15652
+367;"Geestemünder Str.";15711
+368;"Fordwerke Süd";15712
+369;"Fordwerke Mitte";15713
+370;"Fordwerke Nord";15714
+372;"Heinering";16051
+373;"Pesch Schulstr.";16052
+374;"Auweiler";16053
+375;"Hermann-Löns-Str.";16054
+376;"Chorbuschstr.";16055
+377;"Esch";16056
+378;"Johannes-Prassel-Str.";16057
+379;"Sinnersdorfer Mühle";16058
+380;"Pescher Weg";16061
+381;"Otto-Müller-Str.";16062
+382;"Gewerbegebiet Pesch";16063
+383;"Donatusstr.";16064
+384;"Heimersdorf";16110
+385;"Chorweiler";16101
+386;"Karl-Marx-Allee";16151
+387;"Am Hetzepetsch";16152
+388;"Herstattallee";16153
+389;"Zypressenstr.";16154
+390;"Stallagsweg";16155
+391;"Pulheimer Str.";16156
+392;"Marienberger Weg";16161
+393;"Lindweilerfeld";16162
+394;"Unnauer Weg";16163
+395;"Seeberg";16170
+396;"Merianstr.";16171
+397;"Fühlinger Weg";16251
+398;"Friedhof Chorweiler";16252
+399;"Blockstr.";16253
+400;"Wezelostr.";16254
+401;"Weiler";16255
+402;"Volkhovener Weg";16201
+403;"Weichselring";16351
+404;"Haus Fühlingen";16451
+405;"Fühlingen";16452
+406;"Mennweg";16454
+407;"Langel Fähre";16461
+408;"Langel Nord";16462
+409;"Langel Mohlenweg";16463
+410;"Langel Kuhlenweg";16464
+411;"Rheinkassel";16465
+412;"Oranjehofstr.";16481
+413;"Rheinlandstr.";16482
+414;"Edsel-Ford-Str.";16483
+415;"Robert-Bosch-Str.";16484
+416;"Merkenich Mitte";16510
+417;"Merkenich";16511
+418;"Schlettstadter Str.";16551
+419;"Kasselberg";16552
+420;"Worringen S-Bahn";16601
+421;"Walter-Dodde-Weg";16653
+422;"Baptiststr.";16654
+423;"Further Str.";16655
+424;"Alte Römerstr.";16851
+425;"Worringen Süd";16852
+426;"Sankt-Tönnis-Str.";16853
+427;"Hackhauser Weg";16855
+428;"Wiedenfelder Weg";16864
+429;"Bitterstr.";16857
+430;"Dornstr.";16858
+431;"An den Kaulen";16859
+433;"Rolshover Str.";18357
+434;"Üdesheimer Weg";16873
+435;"Mühlenweiher";16871
+436;"Andreaskloster";11242
+437;"Ettore-Bugatti-Str.";17260
+438;"Poll Salmstr.";17013
+439;"Baumschulenweg";17014
+440;"Schüttewerk";17051
+441;"Alfred-Schütte-Allee";17052
+442;"Poll Hauptstr.";17053
+443;"Im Wasserfeld";17054
+444;"Raiffeisenstr.";17015
+445;"Poller Holzweg";17057
+446;"Taubenholzweg";17058
+447;"Zündorfer Weg";17061
+448;"Siegburger Str.";17062
+449;"Westhoven Kölner Str.";17111
+450;"Westhoven Berliner Str.";17112
+451;"Ensen Gilgaustr.";17113
+452;"Ensen Kloster";17114
+453;"Albin-Köbis-Straße";17770
+454;"Hansestr. Ost";17252
+455;"Hansestr.";17253
+456;"Humboldtstr.";17261
+457;"Bonner Str.";17262
+458;"Eil Kirche";17263
+459;"Im Falkenhorst";17264
+460;"Eil Heumarer Str.";17265
+461;"Maarhäuser Weg";17271
+462;"Hansestr. Süd";17272
+463;"Rudolf-Diesel-Str.";17273
+464;"Theodor-Heuss-Str.";17274
+465;"Stresemannstr.";17275
+466;"Porz Steinstr.";17310
+467;"Porz Markt";17311
+468;"Bf Porz";17301
+469;"Siemensstr.";17352
+470;"Kopernikusschule";17353
+471;"Feuerwache";17355
+474;"Antoniusstr.";17455
+475;"Waldstr./Akazienweg";17456
+476;"Grengel Mauspfad";17457
+477;"Friedensstr.";17458
+478;"Wiesenweg";17459
+479;"Urbach Friedhof";17461
+480;"Friedrich-Hirsch-Str.";17462
+481;"Elsdorf";17463
+482;"Kaserne Nordtor";17471
+484;"Dorotheenstr.";17454
+485;"Berrenrather Str./Gürtel (Linie 131)";13232
+486;"Zündorf";17613
+487;"An Sankt Marien";17651
+488;"Wahn S-Bahn";17701
+489;"Wahn Kirche";17751
+490;"Nachtigallenstr.";17752
+491;"Wahn Friedhof";17753
+492;"Linder Kreuz";17754
+493;"Troisdorfer Str.";17755
+494;"Linder Weg";17756
+495;"Linder Mauspfad";17757
+496;"Deutzer Ring";18365
+497;"Libur Kirche";17762
+498;"Libur Margaretenstr.";17763
+499;"Lucasstr.";17771
+500;"Bieselweg";17772
+502;"Kornblumenweg";17774
+503;"Guntherstr.";17775
+509;"DLR";17781
+510;"Urbach Waldstr.";17450
+511;"Urbach Kaiserstr.";17451
+512;"Kalk Post";18010
+513;"Kalk Kapelle";18011
+514;"Eythstr.";18051
+515;"Steinmetzstr.";18052
+516;"Remscheider Str.";18053
+517;"Fuldaer Str.";18110
+518;"Höhenberg Frankfurter Str.";18111
+519;"Mülheimer Friedhof";18151
+520;"Würzburger Str.";18152
+521;"Vingst";18211
+522;"Kürtenstr.";18251
+523;"Oranienstr.";18252
+525;"Feldbergstr.";18351
+526;"Weilburger Str.";18352
+527;"Am Grauen Stein";18353
+528;"Esserstr.";18354
+530;"Gremberg";18359
+531;"Gießener Str.";18361
+532;"Sauerlandstr.";18363
+533;"Ostheim";18411
+534;"Autobahn (Stadtbahn)";18412
+535;"Buchheimer Weg";18451
+536;"Saarbrücker Str.";18452
+537;"Servatiusstr.";18461
+538;"Autobahn (Bus)";18462
+539;"Kalker Friedhof";18510
+540;"Merheim";18511
+541;"Broichstr.";18552
+542;"Bevingsweg";18553
+543;"Ostmerheimer Str.";18555
+544;"Wiehler Str.";18556
+545;"Gewerbegebiet Broichstr.";18561
+546;"Flehbachstr.";18610
+547;"Brück Mauspfad";18611
+548;"Friedhof Lehmbacher Weg";18671
+549;"Kleinfeldchensweg";18672
+550;"Bückebergstr.";18673
+551;"Olpener Str.";18674
+552;"Im Langen Bruch";18675
+553;"Steinweg";18711
+554;"Porzer Str.";18712
+555;"Röttgensweg";18714
+556;"Rath-Heumar";18713
+557;"Königsforst";18715
+558;"Schloß Röttgen";18771
+559;"Eiler Str.";18772
+560;"Alte Forststr.";18773
+561;"Baldurstr.";18775
+562;"Europaring";18861
+563;"Straßburger Platz";18862
+564;"Ludwig-Quidde-Platz";18863
+565;"Rösrather Str.";18864
+566;"Auguste-Kowalski-Str.";19664
+567;"Stegerwaldsiedlung";19011
+568;"Grünstr.";19012
+569;"Buchforst Waldecker Str.";19111
+570;"Mülheim Wiener Platz";19211
+571;"Montanusstr.";19212
+572;"Bf Mülheim";19201
+573;"Graf-Adolf-Str.";19252
+574;"Kieler Str.";19253
+577;"Buchheim Frankfurter Str.";19311
+578;"Buchheim Herler Str.";19312
+579;"Wichheimer Str.";19313
+580;"Gronauer Str.";19353
+581;"Rheinbergstr.";17852
+582;"Beuthener Str.";19351
+583;"Holweide Vischeringstr.";19411
+584;"Maria-Himmelfahrt-Str.";19412
+585;"Neufelder Str. (Krankenhaus Holweide)";19413
+586;"Holweide S-Bahn";19401
+587;"Grunerstr.";19452
+588;"Kühzällerweg";19453
+589;"Gerhart-Hauptmann-Str.";19454
+590;"Buschfeldstr.";19455
+591;"Burgwiesenstr.";19461
+592;"Colonia-Allee";19462
+593;"Schlagbaumsweg";19463
+594;"Dellbrück Mauspfad";19510
+595;"Dellbrück Hauptstr.";19511
+596;"Thielenbruch";19512
+597;"Eggerbachstr.";18551
+598;"Ostfriedhof";19571
+599;"Siedlung Mielenforst";19572
+600;"Thurner Kamp";19573
+601;"Von-Quadt-Str.";19575
+602;"Diepeschrather Str.";19579
+603;"Anemonenweg";19580
+604;"Dellbrück S-Bahn";19501
+605;"Neurather Weg";19611
+606;"Im Weidenbruch";19612
+607;"Am Emberg";19613
+608;"Leuchterstr.";19614
+609;"Odenthaler Str.";19615
+610;"Honschaftsstr.";19651
+611;"Am Springborn";19652
+612;"Jasminweg";19653
+613;"Sigwinstr.";19654
+614;"Birkenweg";19655
+615;"Höhscheider Weg";19656
+616;"Lippeweg";19657
+617;"Klosterhof";19658
+618;"Hildegundweg";19659
+619;"Am Portzenacker";19660
+620;"Leimbachweg";19661
+621;"Paul-Reifenberg-Str.";15650
+622;"Kalkweg";19671
+623;"Wildpark";19672
+624;"An der Walkmühle";19673
+625;"Steinstr. S-Bahn";17202
+626;"Mutzbach";19675
+627;"Am Weißen Mönch";19676
+629;"Goldregenweg";19682
+630;"Aeltgen-Dünwald-Str.";19665
+631;"Keupstr.";19711
+632;"Von-Sparr-Str.";19712
+633;"Mülheim Berliner Str.";19713
+634;"Dünnwalder Str.";19751
+635;"Von-Lohe-Str.";19752
+636;"Am Faulbach";19753
+637;"Neuer Mülheimer Friedhof";19761
+638;"Bruder-Klaus-Siedlung";19762
+639;"Von-Galen-Str.";19763
+640;"Moses-Hess-Str.";19850
+641;"Stammheimer Ring";19851
+642;"Bonhoefferstr.";19861
+644;"Friedhof Stammheim";19872
+645;"Egonstr.";19873
+646;"Barbarastr.";15158
+647;"Flittard Süd";19951
+648;"Flittarder Feld";19952
+649;"Am Feldrain";19970
+650;"Edelhofstr.";19971
+651;"Welserstr.";17254
+652;"Nibelungenstr.";17764
+653;"Ebertplatz/Riehler Str.";11808
+654;"Wiedstr.";18360
+656;"Sportplatzstr.";17765
+657;"Frankfurter Str.";18401
+658;"Marienplatz";17460
+659;"Vitalisstr. Nord";14356
+661;"Gunther-Plüschow-Str.";14460
+662;"Eddaweg";19667
+682;"Lehmbacher Weg Friedhof";18651
+702;"Weiden West";13702
+703;"Porz-Langel Süd";17669
+713;"Haus Vorst";13913
+719;"Schokoladenmuseum";11356
+744;"Rheinauhafen";11357
+745;"Luftfracht Köln/Bonn";17559
+746;"Johannesstraße";16068
+747;"Mozartstraße";16069
+748;"Kapellenweg";16070
+749;"Friedhof Worringen";16862
+750;"Nippes S-Bahn";15001
+751;"Ramrather Weg";16863
+754;"Auf der Freiheit";12550
+756;"Innere Kanalstr.";14059
+757;"Zündorf Marktstr.";17661
+758;"Zündorf Kirche";17662
+759;"Zündorf Altersheim";17663
+760;"Zündorf Mitte";17664
+761;"Zündorf Olefsgasse";17665
+762;"Zündorf Ranzeler Str.";17666
+763;"Oberzündorf";17667
+764;"Porz-Langel Nord";17668
+765;"Porz-Langel Mühle";17851
+766;"Porz-Langel Zur Eiche";17853
+767;"Porz-Langel Kirche";17854
+768;"Schadowstr.";14031
+769;"Methweg";14034
+770;"Schirmerstr.";14032
+771;"Mechternstr.";14060
+772;"Pettenkoferstr.";14033
+773;"Mülhauser Str.";15261
+774;"Escher See";16065
+775;"Am Braunsacker";16066
+777;"Reiherstr.";12666
+778;"Stolberger Str.";13463
+779;"Buchforst S-Bahn";19101
+780;"Rodenkirchen Bismarckstr.";12755
+781;"Gewerbegebiet Pesch-Nord";16067
+783;"Bonntor";12253
+784;"Beuelsweg Nord";15058
+786;"Indianapolis-Straße";13850
+787;"Am Schildchen";18631
+788;"August-Horch-Str.";17255
+789;"Trifelsstr.";15256
+790;"Hansestr. West";17250
+791;"Weiden Zentrum (EKC)";13780
+792;"Cheruskerstr.";17256
+793;"Im Wichemshof";16658
+794;"Waldbad";19634
+795;"Im Wirtskamp";19631
+796;"Gebrüder-Coblenz-Str.";11946
+797;"Totilastr.";11947
+798;"Reischplatz";11948
+799;"TÜV-Akademie";18364
+800;"Mülheimer Ring";19321
+801;"Imbacher Weg";19663
+803;"Birkenweg Schleife";19650
+804;"Zur Abtei";13847
+805;"Talweg";17266
+806;"Thermalbad";11952
+807;"Zum neuen Kreuz";13848
+808;"Rosmarinweg";13849
+809;"Palmenhof";13846
+810;"Arenzhof";16453
+811;"Weilerweg";16250
+812;"Arthur-Hantzsch-Str.";19991
+813;"Stammheim S-Bahn";19801
+815;"Osterather Str.";15250
+816;"Trimbornstr.";18001
+817;"Leopold-Gmelin-Str.";19973
+818;"Nesselrodestr.";15414
+819;"Sprengelstr.";15157
+820;"Niehler Kirchweg";15450
+821;"Gauweg";19354
+822;"Pasteurstr.";15460
+823;"Göttinger Str.";13774
+824;"St. Vinzenz-Hospital";15073
+825;"Wilhelmstr.";15072
+826;"Cranachstr.";15071
+827;"Beuelsweg";15055
+828;"Kuenstr.";15056
+829;"Schneider-Clauss-Str.";15057
+830;"Bahnstr.";13707
+831;"Klinikum Merheim";18558
+832;"Auf dem Streitacker";17257
+833;"Lessingstr.";14241
+834;"Marienstr.";14243
+835;"Bf Ehrenfeld";14201
+836;"Takustr.";14242
+837;"Zonser Str.";15064
+838;"Friedr.-Karl-Str./Neusser Str.";15355
+839;"Stommeler Str.";15556
+840;"Immendorf Schule";12981
+841;"Am Nordpark";15653
+842;"Gisbertstr.";19870
+843;"LVR Kliniken";18559
+846;"Wiso-Fakultät";11652
+847;"Lindenweg";12671
+849;"Franziska-Anneke-Str.";14463
+850;"Prälat-van-Acken-Str.";13314
+851;"Amselstr.";19666
+852;"Am Serviesberg";13559
+853;"Morsestr.";16486
+854;"Marconistr.";16485
+855;"Feldkasseler Weg";16487
+856;"Florenzer Str.";16181
+857;"Esch Friedhof";16059
+858;"Marconistr. Ost";16488
+859;"Güterverkehrszentrum";12563
+860;"Longericher Str./Etzelstr.";15270
+861;"Hugo-Junkers-Str.";15560
+862;"Glashüttenstr.";17360
+863;"Klingerstr.";17361
+864;"Köln/Bonn Flughafen Verwaltung";17552
+866;"Bachemer Str.";13050
+868;"Hopfenstr.";18560
+871;"IKEA Godorf";12957
+872;"Bistritzer Str.";13775
+873;"Wattstr.";18366
+874;"Am Vorgebirgstor";12056
+875;"Justizzentrum";13151
+876;"Südbahnhof";11530
+877;"Am Leinacker";19568
+878;"Heinz-Kühn-Str.";19569
+879;"Roteichenweg";19570
+880;"Freiligrathstr.";13358
+881;"Weserpromenade";16357
+882;"Neißestr.";16358
+883;"Havelstr.";16360
+884;"Habichtstr.";12669
+885;"Neven DuMont Haus";15463
+886;"Schulzentrum Wahn";17773
+887;"Scheuermühlenstr.";17779
+888;"Kaserne Haupttor";17780
+890;"Deutzer Friedhof";18367
+891;"Schanzenstr.";19352
+892;"Köln/Bonn Flughafen Bf";17551
+895;"Schumacherring";14675
+897;"Heinrich-Lübke-Ufer";12411
+898;"Am Hochkreuz";17251
+899;"Am Coloneum";14473
+900;"CöllnParc";15262
+901;"Voltastr.";17351
+902;"Hahnwald  Judenpfad";12667
+903;"Sparkasse Am Butzweilerhof";14414
+908;"Oper im Palladium";19255
+909;"Celsiusstr.";17354
+910;"Belvederestr.";13554
+911;"Carlswerkstr.";19254
+913;"Volksgarten";11454
+914;"Zugweg";11453
+915;"Güterverkehrszentrum Süd";12564
+916;"Paul-Nießen-Str.";12057
+918;"Im Rheintal";12559
+919;"Lüderichstr.";18356
+976;"IKEA Am Butzweilerhof";14415
+1862;"K Airport Businesspark";17203
+2548;"Windmühlenstr.";19051
+2592;"Worringen (S) Westseite";16652
+2602;"Mühlenbach";11351
+2608;"Brauweiler Str.";13746
+2751;"Gemarkenstr.";19553
+2807;"Niederkasseler Str.";17758
+2809;"Spicher Str.";17759
+3626;"In der Hardt";19632
+3627;"Hardthof";19633
+3739;"Paffrather Str.";19541
+5217;"Penningsfelder Weg";19552
+5218;"Strundener Str.";19551
+5233;"Bergisch Gladbacher Str.";19577
+5234;"Möhlstr.";19576
+5235;"Torringer Weg";19681
+6598;"Brennerei";13856
+6623;"Autobahn / B59";14633
+6812;"Rothgerberbach (Poststr.)";11131
+6825;"Scherfginstr.";13231
+6973;"CHEMPARK Tor 10";19992
+7089;"Sankt-Tönnis-Platz";16870
+7206;"Am Kreuzweg";12558
+7394;"St. Vincenz-Haus";11861
+7526;"Niederkasseler Str./Kreisel";17760
+8756;"Blumenberg (S)";16701
+8999;"Danzierstr.";19233
+9574;"Chorweiler Nord (S)";16301
+983;"Vogelsbergstr.";16753
+984;"Langenbergstr.";16752
+985;"Staffelbergstr.";16359
+986;"Helaweg";16356
+987;"Okerstr.";16355
+988;"Swinestr.";16354
+989;"Moldaustr.";16352
