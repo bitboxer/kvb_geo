@@ -1,0 +1,7723 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2013-02-23T13:29:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "361716",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11509",
+          "name": "Eifelplatz",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9434608,
+          50.9232266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1352609",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11113",
+          "name": "Mauritiuskirche",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9451112,
+          50.9339125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "26723425",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Bf Lövenich",
+          "VRS:ortsteil": "Lövenich",
+          "VRS:ref": "13701",
+          "name": "Lövenich",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KLO",
+          "uic_ref": "8003732",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8347336,
+          50.9428614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "28122005",
+        "tags": {
+          "name": "Heumarkt",
+          "note": "Linien 1, 7, 9",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11110",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.960323,
+          50.9357398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "28122013",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Deutz",
+          "VRS:ref": "11909",
+          "name": "Deutzer Freiheit",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/39/",
+          "wheelchair": "no",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9714055,
+          50.9380881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "28301370",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Kalker Friedhof",
+          "VRS:ortsteil": "Merheim",
+          "VRS:ref": "18510",
+          "alt_name": "Kalker Friedhof",
+          "name": "Kalk Friedhof",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0424136,
+          50.942619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "28301373",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Merheim",
+          "VRS:ref": "18511",
+          "name": "Merheim",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0486882,
+          50.9442332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "30145575",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Holweide S-Bahn",
+          "VRS:ortsteil": "Holweide",
+          "VRS:ref": "19401",
+          "name": "Köln-Holweide",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKH",
+          "uic_ref": "8003369",
+          "wheelchair": "limited",
+          "wikipedia:de": "Bahnhof Köln-Holweide"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0411943,
+          50.9762147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "30388742",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Mülheim Berliner Straße",
+          "VRS:ortsteil": "Mülheim",
+          "VRS:ref": "19713",
+          "name": "Mülheim - Berliner Straße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0147516,
+          50.9750425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "31339934",
+        "tags": {
+          "VRS:gemeinde": "BORNHEIM",
+          "VRS:ortsteil": "Walberberg",
+          "VRS:ref": "53412",
+          "light_rail": "yes",
+          "name": "Walberberg",
+          "note": "Linie VRS 18",
+          "operator": "HGK",
+          "public_transport": "stop_position",
+          "railway": "halt",
+          "ref:VRS": "53412",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9209363,
+          50.7942174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "31343551",
+        "tags": {
+          "VRS:gemeinde": "BRÜHL",
+          "VRS:name": "Badorf",
+          "VRS:ortsteil": "Badorf",
+          "VRS:ref": "84311",
+          "name": "Badorf",
+          "note": "Linie VRS 18",
+          "operator": "HGK",
+          "public_transport": "stop_position",
+          "railway": "halt",
+          "ref": "KBAD",
+          "tram": "yes",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9003559,
+          50.8131125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "31344722",
+        "tags": {
+          "VRS:gemeinde": "HÜRTH",
+          "VRS:ortsteil": "Efferen",
+          "VRS:ref": "83611",
+          "name": "Efferen",
+          "note": "Linie VRS 18",
+          "railway": "tram_stop",
+          "ref:VRS": "83611",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9036188,
+          50.8941086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "31345138",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Klettenberg",
+          "VRS:ref": "13221",
+          "light_rail": "yes",
+          "name": "Klettenbergpark",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13221",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9192931,
+          50.9080131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "31346009",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13112",
+          "name": "Arnulfstraße",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13112",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9301528,
+          50.9182254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "32179904",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11611",
+          "name": "Moltkestraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/28/",
+          "wheelchair": "yes",
+          "wheelchair:description": "Linien 1 (Bensberg) und 7 (Zündorf), moderne Niederflurfahrzeuge, Linie 1 rechtsrheinisch teilweise als U-Bahn"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9323001,
+          50.9355637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "32548775",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Lindenthal",
+          "VRS:ref": "13011",
+          "name": "Universitätsstraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/143/",
+          "wheelchair": "yes",
+          "wheelchair:description": "Linien 1 (Weiden-West) und 7 (Frechen), moderne Niederflurfahrzeuge"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9254902,
+          50.9366588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "32548777",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Lindenthal",
+          "VRS:ref": "13011",
+          "name": "Universitätsstraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/143/",
+          "wheelchair": "yes",
+          "wheelchair:description": "Linien 1 (Bensberg) und 7 (Zündorf), moderne Niederflurfahrzeuge, Linie 1 rechtsrheinisch teilweise als U-Bahn"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9242529,
+          50.9366838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "32548788",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11611",
+          "name": "Moltkestraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/28/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9330107,
+          50.9365011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "34960105",
+        "tags": {
+          "VRS:gemeinde": "BERGISCH GLADBACH",
+          "VRS:ortsteil": "Frankenforst",
+          "VRS:ref": "31614",
+          "name": "Frankenforst",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.136843,
+          50.9608536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "34960108",
+        "tags": {
+          "VRS:gemeinde": "BERGISCH GLADBACH",
+          "VRS:ortsteil": "Frankenforst",
+          "VRS:ref": "31613",
+          "name": "Kippekausen",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "source": "own knowledge, www.kvb-koeln.de",
+          "tram": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1300081,
+          50.9568241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "54747464",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11610",
+          "highway": "bus_stop",
+          "name": "Rudolfplatz",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/27/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.93975,
+          50.9361981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "59776017",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11410",
+          "name": "Ubierring",
+          "railway": "tram_stop",
+          "shelter": "yes",
+          "source": "survey",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9656608,
+          50.922458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "59973253",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Klettenberg",
+          "VRS:ref": "13211",
+          "name": "Sülzgürtel",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13211",
+          "shelter": "yes",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.923224,
+          50.9117164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "59973254",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Klettenberg",
+          "VRS:ref": "13113",
+          "name": "Sülzburgstraße",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13113",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9270383,
+          50.9153799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "59973255",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13111",
+          "bench": "yes",
+          "name": "Weißhausstraße",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13111",
+          "shelter": "yes",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9334577,
+          50.9214148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "59973256",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11514",
+          "name": "Eifelwall",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11514",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9368942,
+          50.9246171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "60657803",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13121",
+          "bench": "yes",
+          "name": "Universität",
+          "railway": "tram_stop",
+          "shelter": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9308577,
+          50.9258137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "60657805",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11512",
+          "name": "Zülpicher Platz",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9401662,
+          50.9307962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "61278170",
+        "tags": {
+          "VRS:gemeinde": "BRÜHL",
+          "VRS:name": "Kierberg Bf",
+          "VRS:ortsteil": "Kierberg",
+          "VRS:ref": "84501",
+          "name": "Kierberg",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "uic_ref": "8003252",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8885838,
+          50.8383454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "73432490",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "K Airport Businesspark",
+          "VRS:ortsteil": "Gremberghoven",
+          "VRS:ref": "17203",
+          "name": "Köln Airport-Businesspark",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKBP",
+          "uic_ref": "8003370"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0447099,
+          50.9103163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "73737428",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Chorweiler",
+          "VRS:ortsteil": "Chorweiler",
+          "VRS:ref": "16101",
+          "name": "Köln-Chorweiler",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKCN",
+          "uic_ref": "8003365",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8977987,
+          51.0211285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "73740149",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Blumenberg (S)",
+          "VRS:ortsteil": "Blumenberg",
+          "VRS:ref": "16701",
+          "name": "Köln-Blumenberg",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKBL",
+          "uic_ref": "8079140",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8813655,
+          51.0375531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "75476540",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Neuehrenfeld",
+          "VRS:ref": "14112",
+          "name": "Nußbaumerstraße",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9236508,
+          50.957074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "75476577",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Subbelrather Straße/Gürtel",
+          "VRS:ortsteil": "Neuehrenfeld",
+          "VRS:ref": "14111",
+          "name": "Subbelrather Straße / Gürtel",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9215922,
+          50.954966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "76598858",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14021",
+          "name": "Gutenbergstraße",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9281587,
+          50.9504286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "76645863",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Oskar-Jäger-Straße/Gürtel",
+          "VRS:ortsteil": "Braunsfeld",
+          "VRS:ref": "13421",
+          "name": "Oskar-Jäger-Straße / Gürtel",
+          "railway": "tram_stop",
+          "ref": "13",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9108201,
+          50.9396469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "76673418",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Lindenthal",
+          "VRS:ref": "13012",
+          "name": "Melaten",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/144/",
+          "wheelchair": "yes",
+          "wheelchair:description": "volle Barrierefreiheit in beide Fahrtrichtungen. Linien 1 und 7, moderne Niederflurfahrzeuge, Linie 1 rechtsrheinisch teilweise als U-Bahn"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9165894,
+          50.9367511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "78586808",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11710",
+          "name": "Friesenplatz",
+          "railway": "tram_stop",
+          "source": "survey",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/30/",
+          "wheelchair": "no",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9400113,
+          50.9405843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "78586828",
+        "tags": {
+          "name": "Breslauer Platz / Hbf",
+          "note": "Umbau beendet (eröffnet: 11.12.2011)",
+          "operator": "KVB",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/9/"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9586475,
+          50.9443565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "78586832",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11810",
+          "name": "Ebertplatz",
+          "note": "Linien VRS 5 Ossendorf, VRS 16 Bonn-Bad Godesberg, VRS 18 Bonn Hauptbahnhof",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11810",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9590839,
+          50.9507856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "78586837",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11809",
+          "name": "Reichenspergerplatz",
+          "note": "Linien VRS 5, VRS 16, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11809",
+          "tram": "yes",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9644348,
+          50.9541325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "78586844",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Riehl",
+          "VRS:ref": "15112",
+          "name": "Boltensternstraße",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "15112",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9809837,
+          50.9624144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "78586851",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Riehl",
+          "VRS:ref": "15113",
+          "name": "Slabystraße",
+          "note": "Linien VRS 13, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "15113",
+          "tram": "yes",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9877723,
+          50.9660237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "78589377",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Riehl",
+          "VRS:ref": "15111",
+          "name": "Zoo/Flora",
+          "note": "Linien VRS 16, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "15111",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9745125,
+          50.9579926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "88870605",
+        "tags": {
+          "VRS:gemeinde": "BERGISCH GLADBACH",
+          "VRS:ortsteil": "Bensberg",
+          "VRS:ref": "31513",
+          "name": "Kölner Straße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1493854,
+          50.9626206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "93433443",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Bocklemünd",
+          "VRS:ref": "14611",
+          "name": "Bocklemünd",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8728372,
+          50.9693753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "93433508",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Bocklemünd",
+          "VRS:ref": "14612",
+          "name": "Schaffrathsgasse",
+          "railway": "tram_stop",
+          "source": "survey"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8702057,
+          50.9716538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "137097060",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Hans-Böckler-Platz/Bf West",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11701",
+          "name": "Hans-Böckler-Platz / Bahnhof West",
+          "railway": "tram_stop",
+          "ref": "3,4",
+          "source": "knowledge",
+          "wheelchair": "limited",
+          "wikipedia": "de:Bahnhof Köln West#Stadtbahn-Haltestelle Hans-Böckler-Platz/Bf. West"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9332108,
+          50.9435048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "143456912",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Deutz",
+          "VRS:ref": "11910",
+          "name": "Suevenstraße",
+          "railway": "tram_stop",
+          "shelter": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9763699,
+          50.9327911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "143456925",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Bf Deutz/Messe  LANXESS arena",
+          "VRS:ortsteil": "Deutz",
+          "VRS:ref": "11901",
+          "alt_name": "Bf Deutz/LANXESS arena",
+          "name": "Bahnhof Deutz / Köln Arena",
+          "operator": "KVB",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/49/",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9784049,
+          50.9391525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "143457010",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Mülheim",
+          "VRS:ref": "19711",
+          "name": "Keupstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0067891,
+          50.9662686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "143457031",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Mülheim",
+          "VRS:ref": "19712",
+          "name": "Von-Sparr-Straße",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0113124,
+          50.9703603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "143467770",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Höhenhaus",
+          "VRS:ref": "19612",
+          "name": "Im Weidenbruch",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0226678,
+          50.980661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "143467786",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Höhenhaus",
+          "VRS:ref": "19613",
+          "name": "Am Emberg",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0302445,
+          50.9893534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "143467801",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Dünnwald",
+          "VRS:ref": "19614",
+          "name": "Leuchterstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0374221,
+          50.9961996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "143467828",
+        "tags": {
+          "VRS:gemeinde": "LEVERKUSEN",
+          "VRS:ortsteil": "Schlebusch",
+          "VRS:ref": "23111",
+          "name": "Schlebusch",
+          "railway": "tram_stop",
+          "source": "survey",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0444791,
+          51.0188107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "143480680",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Amsterdamer Straße/Gürtel",
+          "VRS:ortsteil": "Riehl",
+          "VRS:ref": "15121",
+          "name": "Amsterdamer Straße / Gürtel",
+          "railway": "tram_stop",
+          "ref": "13, 16",
+          "wheelchair": "unknown"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9690527,
+          50.9708333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "143480702",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Nippes",
+          "VRS:ref": "15011",
+          "name": "Neusser Straße/Gürtel",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "12, 13, 15",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9514272,
+          50.972334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "157329991",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14012",
+          "name": "Körnerstraße",
+          "railway": "tram_stop",
+          "source": "survey",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.92029,
+          50.948321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "157330124",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14011",
+          "alt_name": "Piusstr.",
+          "name": "Piusstraße",
+          "railway": "tram_stop",
+          "ref": "3,4",
+          "source": "survey",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9259056,
+          50.9460194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "158689414",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Deutz",
+          "VRS:ref": "11918",
+          "name": "Poller Kirchweg",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9798663,
+          50.9238227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "158689461",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Deutz",
+          "VRS:ref": "11909",
+          "name": "Deutzer Freiheit",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9709507,
+          50.9359159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "158689485",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Deutz",
+          "VRS:ref": "11917",
+          "name": "Drehbrücke",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9744825,
+          50.9287869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "177589762",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14212",
+          "name": "Leyendeckerstraße",
+          "railway": "tram_stop",
+          "ref": "3,4",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9101215,
+          50.9543778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "205307116",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Porz",
+          "VRS:ref": "17311",
+          "name": "Porz Markt",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0591587,
+          50.8848648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "207160370",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Braunsfeld",
+          "VRS:ref": "13412",
+          "name": "Maarweg",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/179/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8999317,
+          50.9372081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "207511337",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Braunsfeld",
+          "VRS:ref": "13414",
+          "name": "Eupener Straße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/181/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8895754,
+          50.9374557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "207511340",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Braunsfeld",
+          "VRS:ref": "13413",
+          "name": "Clarenbachstift",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/180/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8944537,
+          50.9373098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "220641181",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Vogelsang",
+          "VRS:ref": "14511",
+          "name": "Wolffsohnstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8849729,
+          50.965024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "241872940",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Weinsbergstraße/Gürtel",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14221",
+          "name": "Weinsbergstraße / Gürtel",
+          "railway": "tram_stop",
+          "ref": "13",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9127151,
+          50.9447574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "244055560",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Bocklemünd",
+          "VRS:ref": "14671",
+          "name": "Ollenhauerring",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "source": "survey",
+          "tram": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8711877,
+          50.9758798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "246422911",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Bf Deutz/Messe  LANXESS arena",
+          "VRS:ortsteil": "Deutz",
+          "VRS:ref": "11901",
+          "name": "Bahnhof Deutz",
+          "operator": "KVB",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/49/",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9778082,
+          50.9397509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "246422944",
+        "tags": {
+          "name": "Deutz Fachhochschule",
+          "note": "Name bis 2012-12-08: Deutz-Kalker-Bad / Fachhochschule",
+          "old_name": "Deutz-Kalker-Bad / Fachhochschule",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9856224,
+          50.9366277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "247313591",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Volkhovener Weg",
+          "VRS:ortsteil": "Volkhoven/Weiler",
+          "VRS:ref": "16201",
+          "name": "Köln Volkhovener Weg",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKV",
+          "source": "survey",
+          "uic_ref": "8003362",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8931731,
+          51.014128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "247386381",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Niehl",
+          "VRS:ref": "15713",
+          "name": "Fordwerke Mitte",
+          "railway": "tram_stop",
+          "source": "survey",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9553571,
+          51.0118627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "247386383",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Niehl",
+          "VRS:ref": "15712",
+          "name": "Fordwerke Süd",
+          "railway": "tram_stop",
+          "source": "survey",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9553434,
+          51.0059474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "247386384",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Niehl",
+          "VRS:ref": "15714",
+          "name": "Fordwerke Nord",
+          "railway": "tram_stop",
+          "source": "survey",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9553507,
+          51.0172334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "247488753",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Ensen Gilgaustraße",
+          "VRS:ortsteil": "Ensen",
+          "VRS:ref": "17113",
+          "electrified": "yes",
+          "frequency": "16.67",
+          "name": "Gilgaustraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.031778,
+          50.8995732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "247488756",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Ensen Gilgaustraße",
+          "VRS:ortsteil": "Ensen",
+          "VRS:ref": "17113",
+          "name": "Gilgaustraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0306515,
+          50.8996089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "247488766",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Westhoven Kölner Straße",
+          "VRS:ortsteil": "Westhoven",
+          "VRS:ref": "17111",
+          "name": "Westhoven, Kölner Straße",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0147553,
+          50.906748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "249460093",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Westhoven",
+          "VRS:ref": "17112",
+          "name": "Westhoven Berliner Straße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0253223,
+          50.9014346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "249460094",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Westhoven",
+          "VRS:ref": "17112",
+          "name": "Westhoven Berliner Straße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0258322,
+          50.9012292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "250523622",
+        "tags": {
+          "VRS:gemeinde": "DORMAGEN",
+          "VRS:name": "Bayerwerk (S)",
+          "VRS:ortsteil": "Mitte",
+          "VRS:ref": "92301",
+          "name": "Dormagen Bayerwerk",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KDBW",
+          "source": "survey",
+          "uic_ref": "8001507"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8379428,
+          51.0773846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "254171982",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11610",
+          "highway": "bus_stop",
+          "name": "Rudolfplatz",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/27/",
+          "wheelchair": "yes",
+          "wheelchair:description": "Linien 1 (Bensberg) und 7 (Zündorf), moderne Niederflurfahrzeuge, Linie 1 rechtsrheinisch teilweise als U-Bahn, Barrierefreier Umstieg auf die Linien 12 und 15 möglich (Aufzug) sowie die Busse 136 und 146"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9400951,
+          50.9356947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "254380330",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11511",
+          "name": "Barbarossaplatz",
+          "note": "Linien VRS 12, VRS 15",
+          "operator": "KVB",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11511",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/23/",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9421476,
+          50.928975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "254380440",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11510",
+          "name": "Eifelstraße",
+          "note": "Linien VRS 12, VRS 15, VRS 16",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11510",
+          "tram": "yes",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.945806,
+          50.9266343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "254380578",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11412",
+          "name": "Ulrepforte",
+          "railway": "tram_stop",
+          "source": "survey",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9517926,
+          50.9241245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "255559795",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Weiden",
+          "VRS:ref": "13707",
+          "alt_name": "Bahnstr.",
+          "name": "Bahnstraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/830/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8446444,
+          50.9381553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "255562063",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Braunsfeld",
+          "VRS:ref": "13411",
+          "name": "Aachener Straße/Gürtel",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/178/",
+          "wheelchair": "yes",
+          "wheelchair:description": "Linien 1 (Weiden-West) und 7 (Frechen), moderne Niederflurfahrzeuge"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9094181,
+          50.9369728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "255562064",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Braunsfeld",
+          "VRS:ref": "13411",
+          "name": "Aachener Straße/Gürtel",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/178/",
+          "wheelchair": "yes",
+          "wheelchair:description": "Linien 1 (Bensberg), moderne Niederflurfahrzeuge, Linie 1 rechtsrheinisch teilweise als U-Bahn"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9079786,
+          50.9370148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "255562065",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Braunsfeld",
+          "VRS:ref": "13411",
+          "name": "Aachener Straße/Gürtel",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/178/",
+          "wheelchair": "limited",
+          "wheelchair:description": "Linie 13 (Sülzgürtel) Hochflurfahrzeuge mit Stufen, nicht Barrierefrei, Einzelne Fahrten der Linie 7 (Niederflur=Barrierefrei)"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9087155,
+          50.9375075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "255562066",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Braunsfeld",
+          "VRS:ref": "13411",
+          "name": "Aachener Straße/Gürtel",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/178/",
+          "wheelchair": "limited",
+          "wheelchair:description": "Linie 7 (Zündorf), Barrierefrei, moderne Niederflurfahrzeuge, Linie 13 (Holweide), Hochflurfahrzeuge mit Stufen, nicht Barrierefrei"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.908372,
+          50.9366452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "255562068",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Lindenthal",
+          "VRS:ref": "13311",
+          "name": "Dürener Straße/Gürtel",
+          "railway": "tram_stop",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9086947,
+          50.9281722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "255728970",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Rath/Heumar",
+          "VRS:ref": "18712",
+          "name": "Porzer Straße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0753787,
+          50.9215749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "256432872",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Nippes",
+          "VRS:ref": "15012",
+          "name": "Florastraße",
+          "railway": "tram_stop",
+          "ref": "12, 15",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9537868,
+          50.9642618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "256572334",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Porz Steinstraße",
+          "VRS:ortsteil": "Porz",
+          "VRS:ref": "17310",
+          "electrified": "yes",
+          "frequency": "16.67",
+          "name": "Steinstraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0559921,
+          50.89194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "256572343",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11511",
+          "name": "Barbarossaplatz",
+          "note": "Linien VRS 16, VRS 18",
+          "operator": "KVB",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11511",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/23/",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9432332,
+          50.929065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "258068652",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Buchheim",
+          "VRS:ref": "19312",
+          "name": "Buchheim Herler Straße",
+          "note": "Linien VRS 3, VRS 13, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19312",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0250953,
+          50.957931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "259615507",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13217",
+          "name": "Sülz Hermeskeiler Platz",
+          "note": "Linie VRS 9",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13217",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9071464,
+          50.9171353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "259624280",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Bf Mülheim",
+          "VRS:ortsteil": "Mülheim",
+          "VRS:ref": "19201",
+          "name": "Bahnhof Mülheim",
+          "note": "Linien VRS 13, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19201",
+          "tram": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0123265,
+          50.9569237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "264121210",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Heimersdorf",
+          "VRS:ref": "16110",
+          "name": "Heimersdorf",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9071309,
+          51.0116361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "264138769",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Longerich",
+          "VRS:ref": "15510",
+          "name": "Meerfeldstraße",
+          "railway": "tram_stop",
+          "source": "survey",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9203062,
+          50.9951874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "264139218",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Longerich",
+          "VRS:ref": "15612",
+          "name": "Altonaer Platz",
+          "railway": "tram_stop",
+          "source": "survey",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9328185,
+          50.9939839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "264139231",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Longerich",
+          "VRS:ref": "15611",
+          "name": "Wilhelm-Sollmann-Straße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9411294,
+          50.9919891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "264139586",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Niehl",
+          "VRS:ref": "15411",
+          "name": "Niehl",
+          "railway": "tram_stop",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9555085,
+          50.9955187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "264139588",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Niehl",
+          "VRS:ref": "15711",
+          "name": "Geestemünder Straße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9552444,
+          51.0022082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "264373944",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14022",
+          "name": "Liebigstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9248695,
+          50.951928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "265730463",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Zollstock",
+          "VRS:ref": "12011",
+          "name": "Pohligstraße",
+          "operator": "KVB",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/52/",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9413927,
+          50.9165317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "265776555",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Buchheim",
+          "VRS:ref": "19313",
+          "name": "Wichheimer Straße",
+          "note": "Linien VRS 3, VRS 13, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19313",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0309015,
+          50.9612014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "265778202",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Holweide Vischeringstraße",
+          "VRS:ortsteil": "Holweide",
+          "VRS:ref": "19411",
+          "alt_name": "Holweide Vischeringstr.",
+          "name": "Vischeringstraße",
+          "note": "Linien VRS 3, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19411",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0389788,
+          50.9668489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "265778206",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Holweide",
+          "VRS:ref": "19412",
+          "name": "Maria-Himmelfahrt-Straße",
+          "note": "Linien VRS 3, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19412",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0447228,
+          50.9678755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "266816196",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Rheinenergie-Stadion",
+          "VRS:ortsteil": "Müngersdorf",
+          "VRS:ref": "13512",
+          "name": "Rhein Energie Stadion",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8777541,
+          50.9369649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "269596945",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Riehl",
+          "VRS:ref": "15120",
+          "name": "Kinderkrankenhaus",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9685034,
+          50.9636132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "273948471",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Niehl",
+          "VRS:ref": "15413",
+          "name": "Niehl Sebastianstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9614051,
+          50.9851972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "275577633",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ensen",
+          "VRS:ref": "17114",
+          "electrified": "yes",
+          "frequency": "16.67",
+          "name": "Ensen Kloster",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0473877,
+          50.8970602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "276278176",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Niehl",
+          "VRS:ref": "15414",
+          "name": "Nesselrodestraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9688305,
+          50.9773958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "276372736",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Steinstraße S-Bahn",
+          "VRS:ortsteil": "Gremberghoven",
+          "VRS:ref": "17202",
+          "name": "Köln Steinstraße",
+          "operator": "DB Station & Service AG",
+          "public_transport": "stop_position",
+          "railway": "halt",
+          "short": "KSTP",
+          "uic_ref": "8003379"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0576899,
+          50.8952875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "276471891",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Niehl",
+          "VRS:ref": "15714",
+          "name": "Fordwerke Nord",
+          "railway": "tram_stop",
+          "source": "survey"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9553672,
+          51.0180671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "276476385",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Merkenich",
+          "VRS:ref": "16511",
+          "description": "Endhaltestelle",
+          "name": "Merkenich",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9479872,
+          51.0281255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "276655770",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Marsdorf",
+          "VRS:ref": "13911",
+          "name": "Stüttgenhof",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.877153,
+          50.9200651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "276659760",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Lindenthal",
+          "VRS:ref": "13313",
+          "alt_name": "Brahmsstr.",
+          "name": "Brahmsstraße",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8990621,
+          50.9261092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "277821646",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Holweide",
+          "VRS:ref": "19413",
+          "name": "Neufelder Straße/Krankenhaus Holweide",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0552686,
+          50.9694914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "277845364",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Dellbrück",
+          "VRS:ref": "19510",
+          "name": "Dellbrück Mauspfad",
+          "note": "Linien VRS 3, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19510",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0644068,
+          50.9717675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "288143177",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Deutz",
+          "VRS:ref": "11916",
+          "name": "Severinsbrücke",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9721569,
+          50.9308435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "288561032",
+        "tags": {
+          "VRS:gemeinde": "BERGISCH GLADBACH",
+          "VRS:ortsteil": "Lückerath",
+          "VRS:ref": "31514",
+          "name": "Neuenweg",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1424387,
+          50.9632496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "288561132",
+        "tags": {
+          "VRS:gemeinde": "BERGISCH GLADBACH",
+          "VRS:ortsteil": "Bensberg",
+          "VRS:ref": "31512",
+          "name": "Im Hoppenkamp",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1562891,
+          50.9629684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "288561136",
+        "tags": {
+          "VRS:gemeinde": "BERGISCH GLADBACH",
+          "VRS:name": "Bensberg",
+          "VRS:ortsteil": "Bensberg",
+          "VRS:ref": "31515",
+          "name": "Bensberg U",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1613772,
+          50.963807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "289745935",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11610",
+          "layer": "-2",
+          "name": "Rudolfplatz",
+          "railway": "halt",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/27/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.938996,
+          50.9364011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "289751411",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11801",
+          "layer": "-2",
+          "name": "Hansaring",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9516121,
+          50.948751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "291553775",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Vogelsang",
+          "VRS:ref": "14512",
+          "name": "Westfriedhof",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8785059,
+          50.9674606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "291600373",
+        "tags": {
+          "VRS:gemeinde": "BERGISCH GLADBACH",
+          "VRS:name": "Duckterath (S)",
+          "VRS:ortsteil": "Duckterath",
+          "VRS:ref": "31202",
+          "name": "Duckterath",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KDUK",
+          "uic_ref": "8001566",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1035484,
+          50.9847913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "296206759",
+        "tags": {
+          "VRS:gemeinde": "RÖSRATH",
+          "VRS:name": "Rösrath-Stümpen Bf",
+          "VRS:ortsteil": "Stümpen",
+          "VRS:ref": "38102",
+          "name": "Rösrath-Stümpen",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "uic_ref": "8005143",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1585629,
+          50.8988441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "300378088",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Zollstock",
+          "VRS:ref": "12015",
+          "name": "Zollstockgürtel",
+          "operator": "KVB",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9420714,
+          50.9053534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "300378090",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Zollstock",
+          "VRS:ref": "12013",
+          "name": "Gottesweg",
+          "operator": "KVB",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/54/",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9413365,
+          50.9098278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "300378092",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11512",
+          "name": "Zülpicher Platz",
+          "operator": "KVB",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9406314,
+          50.9313812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "300403947",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11112",
+          "name": "Poststraße",
+          "note": "Linien VRS 3, VRS 4, VRS 16, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11112",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9499566,
+          50.9317732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "300514892",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Weiden",
+          "VRS:ref": "13702",
+          "name": "Weiden West",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/702/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8160574,
+          50.9404526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "309447968",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Deutz",
+          "VRS:ref": "11952",
+          "name": "Thermalbad",
+          "railway": "halt",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9807599,
+          50.9506732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "309447985",
+        "tags": {
+          "name": "Rosengarten",
+          "railway": "halt",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9793547,
+          50.9515921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "309448038",
+        "tags": {
+          "name": "Tanzbrunnen",
+          "railway": "halt",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9725776,
+          50.9471828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "310877824",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Kalk",
+          "VRS:ref": "18010",
+          "name": "Kalk Post",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9986343,
+          50.9375349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "310877834",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Höhenberg",
+          "VRS:ref": "18110",
+          "name": "Fuldaer Straße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0222891,
+          50.9416014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "310877836",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Kalk",
+          "VRS:ref": "18011",
+          "layer": "-1",
+          "name": "Kalk Kapelle",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0087446,
+          50.9389426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "310877837",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Höhenberg",
+          "VRS:ref": "18111",
+          "name": "Höhenberg Frankfurter Straße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0301368,
+          50.9417401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "310877848",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Vingst",
+          "VRS:ref": "18211",
+          "name": "Vingst",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0213434,
+          50.9327817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "318266429",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Weidenpesch",
+          "VRS:ref": "15312",
+          "name": "Scheibenstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9463636,
+          50.9856627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "331259610",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Poll",
+          "VRS:ref": "17014",
+          "name": "Baumschulenweg",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0002802,
+          50.9147331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "347260081",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13121",
+          "bench": "yes",
+          "name": "Universität",
+          "railway": "tram_stop",
+          "shelter": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9307287,
+          50.9260055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "358424692",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11513",
+          "name": "Dasselstraße/Bf Süd",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.935896,
+          50.9283145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "358543620",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Klettenberg",
+          "VRS:ref": "13211",
+          "name": "Sülzgürtel",
+          "note": "Linie VRS 13",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13211",
+          "shelter": "yes",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.923071,
+          50.9127119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "358545902",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Berrenrather Straße/Gürtel",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13213",
+          "name": "Berrenrather Straße",
+          "note": "Linie 13",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13213",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9204188,
+          50.9145173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "358547766",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13214",
+          "name": "Euskirchener Straße",
+          "note": "FIXME: Nur Trams nach Westen",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9178329,
+          50.9163726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "358550216",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13214",
+          "name": "Euskirchener Straße",
+          "note": "FIXME: Nur Trams nach Osten",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.916945,
+          50.9172606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "358819604",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13216",
+          "name": "Mommsenstraße",
+          "note": "Linie VRS 9",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13216",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9102546,
+          50.9191306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "358827355",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Zülpicher Straße/Gürtel",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13215",
+          "name": "Zülpicher Straße / Gürtel",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.914924,
+          50.9207998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "358834410",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Zülpicher Straße/Gürtel",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13215",
+          "name": "Zülpicher Straße / Gürtel",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9155942,
+          50.919736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "360682400",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Lindenthal",
+          "VRS:ref": "13310",
+          "fixme": "genaue Position",
+          "name": "Wüllnerstraße",
+          "railway": "tram_stop",
+          "source": "OpenStreetBugs",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9078157,
+          50.9317283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "382012848",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11111",
+          "name": "Neumarkt",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11111",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9477566,
+          50.9357815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "392951650",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Gleueler Straße/Gürtel",
+          "VRS:ortsteil": "Lindenthal",
+          "VRS:ref": "13321",
+          "name": "Gleueler Straße / Gürtel",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.91204,
+          50.9240244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "393402276",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Longerich",
+          "VRS:ref": "15512",
+          "name": "Longerich Friedhof",
+          "public_transport": "stop_position",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9113259,
+          50.9955892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "393403340",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Longerich",
+          "VRS:ref": "15511",
+          "name": "Longericher Straße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9141538,
+          50.9961827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "405603989",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Zündorf",
+          "VRS:ref": "17614",
+          "name": "Rosenhügel",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0600914,
+          50.8743166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "424052409",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Christophstraße/Mediapark",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11712",
+          "layer": "-2",
+          "name": "Christophstraße / Mediapark",
+          "railway": "halt",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9422527,
+          50.9445512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "445070887",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Bilderstöckchen",
+          "VRS:ref": "15222",
+          "name": "Escher Straße",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9337865,
+          50.9645781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "455017464",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Trimbornstraße",
+          "VRS:ortsteil": "Kalk",
+          "VRS:ref": "18001",
+          "name": "Köln Trimbornstraße",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKTR",
+          "uic_ref": "8003320",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9970539,
+          50.9358419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "461648329",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11111",
+          "name": "Neumarkt",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9469742,
+          50.9363304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "470616058",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Deutz",
+          "VRS:ref": "11912",
+          "name": "Koelnmesse",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9819912,
+          50.94349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "475518448",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Nippes",
+          "VRS:ref": "15013",
+          "name": "Lohsestraße",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9546952,
+          50.9592982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "482749484",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Weidenpesch",
+          "VRS:ref": "15311",
+          "name": "Mollwitzstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.948726,
+          50.9784395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "497051695",
+        "tags": {
+          "name": "Slabystraße",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9881249,
+          50.9674504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "505829740",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11411",
+          "name": "Chlodwigplatz",
+          "operator": "KVB",
+          "railway": "tram_stop",
+          "source": "knowledge",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9604343,
+          50.9212571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "507103734",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Longerich",
+          "VRS:ref": "15613",
+          "name": "Herforder Straße",
+          "railway": "tram_stop",
+          "source": "survey",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9255022,
+          50.9946677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "534903450",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Dünnwald",
+          "VRS:ref": "19615",
+          "name": "Odenthaler Straße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0421957,
+          51.0011229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "534903451",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Dünnwald",
+          "VRS:ref": "19615",
+          "name": "Odenthaler Straße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0424409,
+          51.001404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "537534897",
+        "tags": {
+          "VRS:gemeinde": "TROISDORF",
+          "VRS:name": "Spich Bf",
+          "VRS:ortsteil": "Spich",
+          "VRS:ref": "54801",
+          "name": "Spich",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KSPI",
+          "uic_ref": "8005629",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.114633,
+          50.8268595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "585237913",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Holweide S-Bahn",
+          "VRS:ortsteil": "Holweide",
+          "VRS:ref": "19401",
+          "name": "Köln-Holweide",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKH",
+          "uic_ref": "8003369",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0411786,
+          50.9762551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "594758146",
+        "tags": {
+          "VRS:gemeinde": "FRECHEN",
+          "VRS:name": "Mühlengasse",
+          "VRS:ortsteil": "Mitte",
+          "VRS:ref": "82410",
+          "name": "Frechen Mühlengasse",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8020743,
+          50.9082693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "594778342",
+        "tags": {
+          "VRS:gemeinde": "FRECHEN",
+          "VRS:ortsteil": "Mitte",
+          "VRS:ref": "82411",
+          "name": "Frechen Rathaus",
+          "note": "Linie 7",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "82411",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8061437,
+          50.9094324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "594779571",
+        "tags": {
+          "VRS:gemeinde": "FRECHEN",
+          "VRS:ortsteil": "Mitte",
+          "VRS:ref": "82412",
+          "name": "Frechen Kirche",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8157791,
+          50.9100638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "594780829",
+        "tags": {
+          "VRS:gemeinde": "FRECHEN",
+          "VRS:name": "Frechen Bf",
+          "VRS:ortsteil": "Mitte",
+          "VRS:ref": "82413",
+          "name": "Frechen Bahnhof",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.823058,
+          50.9115001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "597716086",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Zollstock Südfriedhof",
+          "VRS:ortsteil": "Zollstock",
+          "VRS:ref": "12016",
+          "name": "Zollstock, Südfriedhof",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9444663,
+          50.9009219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "598172861",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Merheim",
+          "VRS:ref": "18511",
+          "name": "Merheim",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0477351,
+          50.9439716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "600902498",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Weiden",
+          "VRS:ref": "13702",
+          "name": "Köln-Weiden West",
+          "operator": "DB Station & Service AG",
+          "public_transport": "stop_position",
+          "railway": "halt",
+          "short": "KKWW",
+          "uic_ref": "8003383",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8148326,
+          50.9407623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "605463644",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Weiden",
+          "VRS:ref": "13780",
+          "name": "Weiden Zentrum",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/261/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8352454,
+          50.9383279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "605463645",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Weiden",
+          "VRS:ref": "13709",
+          "name": "Weiden Schulstraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/241/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.828639,
+          50.9384025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "605463649",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Junkersdorf",
+          "VRS:ref": "13706",
+          "name": "Mohnweg",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/142/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8554744,
+          50.9379756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "605463652",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Junkersdorf",
+          "VRS:ref": "13611",
+          "name": "Junkersdorf",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/200/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8687053,
+          50.9376586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "605463656",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Müngersdorf",
+          "VRS:ref": "13511",
+          "name": "Alter Militärring",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "1",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/186/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8815122,
+          50.9377132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "614156183",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Holweide Vischeringstraße",
+          "VRS:ortsteil": "Holweide",
+          "VRS:ref": "19411",
+          "alt_name": "Holweide Vischeringstr.",
+          "name": "Vischeringstraße",
+          "note": "Linie VRS 13",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19411",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0378198,
+          50.9661907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "632737909",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ossendorf",
+          "VRS:ref": "14451",
+          "name": "Alter Flughafen Butzweilerhof",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8981472,
+          50.9775119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "633163736",
+        "tags": {
+          "light_rail": "yes",
+          "name": "Rathaus",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "start_date": "2012-12-09"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9595736,
+          50.937966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "635045104",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11209",
+          "name": "Appellhofplatz",
+          "note": "Linie VRS 5",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11209",
+          "tram": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9507033,
+          50.9412253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "651963087",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ossendorf",
+          "VRS:ref": "14479",
+          "name": "Sparkasse Am Butzweilerhof",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8883871,
+          50.9846639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "656197616",
+        "tags": {
+          "VRS:gemeinde": "LEVERKUSEN",
+          "VRS:name": "Rheindorf (S)",
+          "VRS:ortsteil": "Rheindorf",
+          "VRS:ref": "21301",
+          "name": "Leverkusen-Rheindorf",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KLRH",
+          "uic_ref": "8003672",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9634051,
+          51.0641873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "656197618",
+        "tags": {
+          "VRS:gemeinde": "LEVERKUSEN",
+          "VRS:name": "Leverkusen Mitte Bf",
+          "VRS:ortsteil": "Wiesdorf",
+          "VRS:ref": "21101",
+          "name": "Leverkusen Mitte",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KLMIH",
+          "uic_ref": "8006713",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9914154,
+          51.0318723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "656197622",
+        "tags": {
+          "VRS:gemeinde": "LEVERKUSEN",
+          "VRS:name": "Küppersteg (S)",
+          "VRS:ortsteil": "Küppersteg",
+          "VRS:ref": "22201",
+          "name": "Leverkusen-Küppersteg",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KLKH",
+          "uic_ref": "8003668",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9878072,
+          51.0462689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "660711070",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Frankfurter Straße",
+          "VRS:ortsteil": "Gremberghoven",
+          "VRS:ref": "18401",
+          "name": "Köln Frankfurter Straße",
+          "public_transport": "stop_position",
+          "railway": "halt",
+          "short": "KKFS",
+          "uic_ref": "8003358"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0518546,
+          50.9154072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "667761144",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Bickendorf",
+          "VRS:ref": "14312",
+          "name": "Akazienweg",
+          "railway": "tram_stop",
+          "ref": "3,4",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8935071,
+          50.9608565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "690667156",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Zollstock",
+          "VRS:ref": "12012",
+          "name": "Herthastraße",
+          "operator": "KVB",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/53/",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9408341,
+          50.9129423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "690667158",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Zollstock",
+          "VRS:ref": "12012",
+          "name": "Herthastraße",
+          "operator": "KVB",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/53/",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9407259,
+          50.9129642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "711656819",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Müngersdorf",
+          "VRS:ref": "13512",
+          "name": "Rheinenergie-Stadion",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "shelter": "yes",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/187/",
+          "wheelchair": "unknown",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8747075,
+          50.9376041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "712257097",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Poll",
+          "VRS:ref": "17015",
+          "name": "Raiffeisenstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9860916,
+          50.9199536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "720589906",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Zülpicher Straße/Gürtel",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13215",
+          "name": "Zülpicher Straße / Gürtel",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9158729,
+          50.9205121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "720589907",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Zülpicher Straße/Gürtel",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13215",
+          "name": "Zülpicher Straße / Gürtel",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9145854,
+          50.9202111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "720589911",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13122",
+          "name": "Weyertal",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9273152,
+          50.9241202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "720589912",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13122",
+          "name": "Weyertal",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9266553,
+          50.9238463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "720589913",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Lindenburg (Universitätskliniken)",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13123",
+          "name": "Lindenburg",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9215216,
+          50.9221657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "720589915",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Lindenburg (Universitätskliniken)",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13123",
+          "name": "Lindenburg",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.922058,
+          50.9224227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "725069195",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Weiden Zentrum",
+          "VRS:ortsteil": "Weiden",
+          "VRS:ref": "13780",
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Weiden Zentrum (EKC)",
+          "public_transport": "platform",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/261/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8352385,
+          50.9381258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "728905365",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ossendorf",
+          "VRS:ref": "14464",
+          "name": "IKEA Am Butzweilerhof",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8939813,
+          50.9821678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "779702444",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Weiden West",
+          "VRS:ortsteil": "Weiden",
+          "VRS:ref": "13702",
+          "highway": "bus_stop",
+          "name": "Weiden-West",
+          "railway": "tram_stop",
+          "shelter": "yes",
+          "tactile_paving": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/702/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.815686,
+          50.9402284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "800443787",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Bf Mülheim",
+          "VRS:ortsteil": "Mülheim",
+          "VRS:ref": "19201",
+          "name": "U-Bahn Haltestelle Bahnhof Mülheim",
+          "note": "Linien VRS 13, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19201",
+          "tram": "yes",
+          "wheelchair": "yes",
+          "wheelchair:description": "Über Aufzüge vom S-Bahn-Bahnsteig und vom Bahnhofsvorplatz aus erreichbar."
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0124058,
+          50.9569581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "931157856",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Dellbrück",
+          "VRS:ref": "19511",
+          "name": "Dellbrück Hauptstraße",
+          "note": "Linien VRS 3, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19511",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0745142,
+          50.9745917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "943958109",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Amsterdamer Straße/Gürtel",
+          "VRS:ortsteil": "Riehl",
+          "VRS:ref": "15121",
+          "name": "Amsterdamer Straße / Gürtel",
+          "railway": "tram_stop",
+          "ref": "13, 16",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.969094,
+          50.9708416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "944477623",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Nippes",
+          "VRS:ref": "15011",
+          "name": "Neusser Straße/Gürtel",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "12, 13, 15",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9512323,
+          50.9723281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "990080568",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11514",
+          "name": "Eifelwall",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11514",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9368128,
+          50.9246466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "992493755",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Weinsbergstraße/Gürtel",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14221",
+          "name": "Weinsbergstraße / Gürtel",
+          "railway": "tram_stop",
+          "ref": "13"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9127821,
+          50.9452641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1025250562",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11311",
+          "name": "Severinstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9577079,
+          50.9293001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1136145776",
+        "tags": {
+          "VRS:gemeinde": "FRECHEN",
+          "VRS:name": "Königsdorf Bf",
+          "VRS:ortsteil": "Königsdorf",
+          "VRS:ref": "82101",
+          "name": "Frechen-Königsdorf",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KFKO",
+          "uic_ref": "8002389",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7785475,
+          50.9365341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1237287830",
+        "tags": {
+          "VRS:gemeinde": "DORMAGEN",
+          "VRS:name": "Bayerwerk (S)",
+          "VRS:ortsteil": "Mitte",
+          "VRS:ref": "92301",
+          "name": "Dormagen Bayerwerk",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KDBW",
+          "source": "survey",
+          "uic_ref": "8001507"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8385742,
+          51.0763457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1262143427",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11110",
+          "name": "Heumarkt",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.960314,
+          50.9357474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1271789493",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11110",
+          "name": "Heumarkt",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/1/",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9603096,
+          50.935747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1297159812",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Klettenberg",
+          "VRS:ref": "13211",
+          "name": "Sülzgürtel",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13211",
+          "shelter": "yes",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9233192,
+          50.9116708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1332048892",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Chorweiler",
+          "VRS:ref": "16101",
+          "name": "Chorweiler",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8980399,
+          51.0210596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1333387681",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Holweide",
+          "VRS:ref": "19413",
+          "name": "Neufelder Straße/Krankenhaus Holweide",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19413",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0558715,
+          50.9696925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1333387740",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Dellbrück",
+          "VRS:ref": "19511",
+          "name": "Dellbrück Hauptstraße",
+          "note": "Linien VRS 3, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19511",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.07515,
+          50.9750609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1333387756",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Dellbrück",
+          "VRS:ref": "19510",
+          "name": "Dellbrück Mauspfad",
+          "note": "Linien VRS 3, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19510",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0655605,
+          50.9720454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1333387852",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Dellbrück",
+          "VRS:ref": "19512",
+          "name": "Thielenbruch",
+          "note": "Linien VRS 3, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19512",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0855175,
+          50.9780381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1333387923",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Buchheim",
+          "VRS:ref": "19313",
+          "name": "Wichheimer Straße",
+          "note": "Linien VRS 3, VRS 13, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "19313",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0316426,
+          50.9618343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1333488308",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Mülheim Wiener Platz",
+          "VRS:ortsteil": "Mülheim",
+          "VRS:ref": "19211",
+          "alt_name": "Mülheim Wiener Platz",
+          "name": "Wiener Platz",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0041676,
+          50.9617267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1341075078",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11201",
+          "name": "Dom/Hbf",
+          "note": "Linien VRS 5, VRS 16, VRS 18",
+          "operator": "KVB",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11201",
+          "tram": "yes",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/8/",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9572211,
+          50.9417279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1341148995",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11209",
+          "highway": "elevator",
+          "name": "Appellhofplatz",
+          "note": "Linien VRS 3, VRS 4, VRS 16, VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "11209",
+          "tram": "yes",
+          "wheelchair": "yes",
+          "wheelchair:description": "Aufzug zum Bahnsteig"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9505873,
+          50.9394966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1342051662",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11111",
+          "name": "Neumarkt",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/2/",
+          "wheelchair": "yes",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9490133,
+          50.9355157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1342134200",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Sülz",
+          "VRS:ref": "13112",
+          "name": "Arnulfstraße",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13112",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9301369,
+          50.918342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1342148348",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Blumenberg (S)",
+          "VRS:ortsteil": "Blumenberg",
+          "VRS:ref": "16701",
+          "name": "Köln-Blumenberg",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKBL",
+          "uic_ref": "8079140",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.881388,
+          51.0375899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1342148367",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Volkhovener Weg",
+          "VRS:ortsteil": "Volkhoven/Weiler",
+          "VRS:ref": "16201",
+          "name": "Köln Volkhovener Weg",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKV",
+          "source": "survey",
+          "uic_ref": "8003362",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8932294,
+          51.0141197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1343121522",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Klettenberg",
+          "VRS:ref": "13113",
+          "name": "Sülzburgstraße",
+          "note": "Linie VRS 18",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13113",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9271411,
+          50.9153488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1343148053",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Klettenberg",
+          "VRS:ref": "13211",
+          "name": "Sülzgürtel",
+          "note": "Linie VRS 13",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref:VRS": "13211",
+          "shelter": "yes",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9231745,
+          50.9127829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1365461641",
+        "tags": {
+          "VRS:gemeinde": "BRÜHL",
+          "VRS:ortsteil": "Mitte",
+          "VRS:ref": "84111",
+          "name": "Brühl Süd",
+          "operator": "HGK",
+          "railway": "halt",
+          "ref": "KBLS",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8983161,
+          50.8224483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1383433664",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Weiden Zentrum",
+          "VRS:ortsteil": "Weiden",
+          "VRS:ref": "13708",
+          "name": "Weiden Zentrum",
+          "railway": "tram_stop",
+          "source": "Verkehrsverbund Rhein-Sieg",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8352382,
+          50.9381669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1383513175",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Autobahn (Stadtbahn)",
+          "VRS:ortsteil": "Ostheim",
+          "VRS:ref": "18412",
+          "name": "Autobahn (Stadtbahn)",
+          "railway": "tram_stop",
+          "source": "Verkehrsverbund Rhein-Sieg"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.053817,
+          50.9271186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1397015499",
+        "tags": {
+          "name": "Rath-Heumar",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0821613,
+          50.9204739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1415103421",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Chorweiler",
+          "VRS:ortsteil": "Chorweiler",
+          "VRS:ref": "16101",
+          "name": "Köln-Chorweiler",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKCN",
+          "uic_ref": "8003365",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8978557,
+          51.0211182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1415103437",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Geldernstraße/Parkgürtel",
+          "VRS:ortsteil": "Bilderstöckchen",
+          "VRS:ref": "15201",
+          "name": "Köln-Geldernstraße/Parkgürtel",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKPO",
+          "uic_ref": "8003360",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9412531,
+          50.968559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1415103452",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Geldernstraße/Parkgürtel",
+          "VRS:ortsteil": "Bilderstöckchen",
+          "VRS:ref": "15201",
+          "name": "Köln-Geldernstraße/Parkgürtel",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKPO",
+          "uic_ref": "8003360",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9414207,
+          50.9685676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1457856092",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Autobahn (Bus)",
+          "VRS:ortsteil": "Ostheim",
+          "VRS:ref": "18462",
+          "name": "Autobahn",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0533194,
+          50.9272609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1457856093",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ostheim",
+          "VRS:ref": "18411",
+          "name": "Ostheim",
+          "railway": "tram_stop",
+          "source": "extrapolation",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0417481,
+          50.9292179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1458506405",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Poll",
+          "VRS:ref": "17013",
+          "name": "Poll Salmstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9928365,
+          50.9160131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1458679809",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Porz Steinstraße",
+          "VRS:ortsteil": "Porz",
+          "VRS:ref": "17310",
+          "electrified": "yes",
+          "frequency": "16.67",
+          "name": "Steinstraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0565224,
+          50.8914928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1546261311",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Buchheim Frankfurter Straße",
+          "VRS:ortsteil": "Buchheim",
+          "VRS:ref": "19311",
+          "name": "Frankfurter Straße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0141092,
+          50.9532224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1546261334",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Frankfurter Straße",
+          "VRS:ortsteil": "Gremberghoven",
+          "VRS:ref": "18401",
+          "name": "Köln Frankfurter Straße",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKFS",
+          "uic_ref": "8003358",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0508867,
+          50.9153753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1546846250",
+        "tags": {
+          "VRS:gemeinde": "FRECHEN",
+          "VRS:name": "Königsdorf Bf",
+          "VRS:ortsteil": "Königsdorf",
+          "VRS:ref": "82101",
+          "name": "Frechen-Königsdorf",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KFKO",
+          "uic_ref": "8002389",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7781746,
+          50.9365252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1578608150",
+        "tags": {
+          "name": "Gelderstraße/Parkgürtel, Köln",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9415576,
+          50.9685002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1600099303",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Brück",
+          "VRS:ref": "18610",
+          "name": "Flehbachstraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0731805,
+          50.9477431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1600276899",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Brück",
+          "VRS:ref": "18611",
+          "name": "Brück Mauspfad",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0782896,
+          50.9488157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1600994508",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Rath/Heumar",
+          "VRS:ref": "18711",
+          "name": "Steinweg",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0667895,
+          50.9236538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1601016051",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Rath/Heumar",
+          "VRS:ref": "18712",
+          "name": "Porzer Straße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0748924,
+          50.921684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1610914902",
+        "tags": {
+          "name": "Köln-Buchforst",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKBH",
+          "uic_ref": "8003364"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0043854,
+          50.9534765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1625731763",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Hansaring",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11801",
+          "name": "Köln Hansaring",
+          "operator": "DB Station & Service AG",
+          "public_transport": "stop_position",
+          "railway": "halt",
+          "short": "KKHR",
+          "train": "yes",
+          "uic_ref": "8003392",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9525565,
+          50.9490632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1625731764",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Hansaring",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11801",
+          "name": "Köln Hansaring",
+          "public_transport": "stop_position",
+          "railway": "halt",
+          "short": "KKHR",
+          "train": "yes",
+          "uic_ref": "8003392",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9527138,
+          50.9491115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1627444439",
+        "tags": {
+          "name": "Siegstraße",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9946164,
+          50.8833032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1630386906",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Müngersdorf S-Bahn Technologiepark",
+          "VRS:ortsteil": "Müngersdorf",
+          "VRS:ref": "13501",
+          "name": "Köln-Müngersdorf/Technologiepark",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKMT",
+          "uic_ref": "8003375",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8883396,
+          50.9483601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1630386920",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Müngersdorf S-Bahn Technologiepark",
+          "VRS:ortsteil": "Müngersdorf",
+          "VRS:ref": "13501",
+          "name": "Köln-Müngersdorf/Technologiepark",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKMT",
+          "uic_ref": "8003375",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8881406,
+          50.9484384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1631500813",
+        "tags": {
+          "VRS:gemeinde": "LEVERKUSEN",
+          "VRS:name": "Bayerwerk S-Bahn",
+          "VRS:ortsteil": "Wiesdorf",
+          "VRS:ref": "19901",
+          "name": "Bayerwerk",
+          "operator": "DB Station & Service AG",
+          "public_transport": "stop_position",
+          "railway": "halt",
+          "short": "KBAY",
+          "uic_ref": "8000832",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9964975,
+          51.0114275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1631500830",
+        "tags": {
+          "name": "Köln-Stammheim",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKSH",
+          "uic_ref": "8003310"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0018182,
+          50.9900273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1684387162",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Longerich",
+          "VRS:ref": "15510",
+          "name": "Meerfeldstraße",
+          "railway": "tram_stop",
+          "source": "survey",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9216231,
+          50.9949845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1696101133",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Bickendorf",
+          "VRS:ref": "14310",
+          "name": "Äußere Kanalstraße",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "ref": "3,4",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9027007,
+          50.9568275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1722236875",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Neuehrenfeld",
+          "VRS:ref": "14113",
+          "name": "Lenauplatz",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9182798,
+          50.9587151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1722236988",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Neuehrenfeld",
+          "name": "Iltisstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9124455,
+          50.9649319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1722237103",
+        "tags": {
+          "name": "Margaretastraße",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9054629,
+          50.9685303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1722237279",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ossendorf",
+          "VRS:ref": "14412",
+          "name": "Rektor-Klein-Straße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9047039,
+          50.9739804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1725697490",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14212",
+          "name": "Leyendeckerstraße",
+          "railway": "tram_stop",
+          "ref": "3,4",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9100912,
+          50.954372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1733501768",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Amsterdamer Straße/Gürtel",
+          "VRS:ortsteil": "Riehl",
+          "VRS:ref": "15121",
+          "name": "Amsterdamer Straße / Gürtel",
+          "railway": "tram_stop",
+          "ref": "13, 16",
+          "wheelchair": "unknown"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9692093,
+          50.9708593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1770563567",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11113",
+          "name": "Mauritiuskirche",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9450441,
+          50.9345128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1805218614",
+        "tags": {
+          "name": "Marsdorf",
+          "railway": "halt"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8583092,
+          50.9174906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1841279043",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Zollstock",
+          "VRS:ref": "12011",
+          "name": "Pohligstraße",
+          "operator": "KVB",
+          "railway": "tram_stop",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/52/",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.941511,
+          50.9165142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1876242006",
+        "tags": {
+          "VRS:gemeinde": "SIEGBURG",
+          "VRS:name": "Siegburg Bf",
+          "VRS:ortsteil": "Mitte",
+          "VRS:ref": "55101",
+          "name": "Siegburg Bahnhof",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2029922,
+          50.793213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1880680504",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14022",
+          "name": "Liebigstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9249167,
+          50.9519575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1890744707",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Marienburg",
+          "VRS:ref": "12410",
+          "name": "Bayenthalgürtel",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9775706,
+          50.9071328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1890744710",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Marienburg",
+          "VRS:ref": "12411",
+          "name": "Heinrich-Lübke-Ufer",
+          "operator": "HGK",
+          "railway": "halt",
+          "ref": "KMBG"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9848776,
+          50.8997852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1890744774",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Bayenthal",
+          "VRS:ref": "12211",
+          "name": "Schönhauser Straße",
+          "operator": "KVB",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9718957,
+          50.9143478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1951251034",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Neuehrenfeld",
+          "name": "Iltisstraße",
+          "railway": "tram_stop",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.912386,
+          50.9648744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1962291059",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Venloer Straße/Gürtel",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14211",
+          "name": "Venloer Straße / Gürtel",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9164635,
+          50.9499404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1962291060",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Venloer Straße/Gürtel",
+          "VRS:ortsteil": "Ehrenfeld",
+          "VRS:ref": "14211",
+          "name": "Venloer Straße / Gürtel",
+          "railway": "tram_stop",
+          "wheelchair": "no"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.916082,
+          50.9505878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1964543346",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Innenstadt",
+          "VRS:ref": "11710",
+          "name": "Friesenplatz",
+          "railway": "halt",
+          "source": "survey",
+          "website": "http://www.kvb-koeln.de/german/hst/overview/30/",
+          "wheelchair": "limited",
+          "wheelchair:description": "alle Infos direkt über den Link erreichbar"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9399965,
+          50.9405732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1966683864",
+        "tags": {
+          "name": "Lustheide",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1049618,
+          50.9518564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1966683865",
+        "tags": {
+          "name": "Lustheide",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1045756,
+          50.9519173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1966686087",
+        "tags": {
+          "name": "Refrath",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1160125,
+          50.9539854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "1995096837",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Trimbornstraße",
+          "VRS:ortsteil": "Kalk",
+          "VRS:ref": "18001",
+          "name": "Köln Trimbornstraße",
+          "operator": "DB Station & Service AG",
+          "railway": "halt",
+          "short": "KKTR",
+          "uic_ref": "8003320",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9969739,
+          50.9357743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "2105944600",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Ossendorf",
+          "VRS:ref": "14479",
+          "name": "Sparkasse Am Butzweilerhof",
+          "public_transport": "stop_position",
+          "railway": "tram_stop",
+          "tram": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.888488,
+          50.9847433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "2122649297",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Rodenkirchen",
+          "VRS:ref": "12713",
+          "name": "Michaelshoven",
+          "operator": "HGK",
+          "railway": "halt",
+          "ref": "KMH",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9990644,
+          50.8759675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "2122649305",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:name": "Siegstraße (Stadtbahn)",
+          "VRS:ortsteil": "Rodenkirchen",
+          "VRS:ref": "12712",
+          "name": "Siegstraße",
+          "operator": "HGK",
+          "railway": "tram_stop",
+          "ref": "KKSS"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9946362,
+          50.8833367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "2122649311",
+        "tags": {
+          "VRS:gemeinde": "WESSELING",
+          "VRS:name": "Urfeld",
+          "VRS:ortsteil": "Urfeld",
+          "VRS:ref": "85410",
+          "light_rail": "yes",
+          "name": "Urfeld",
+          "railway": "halt",
+          "ref": "1"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0106282,
+          50.8036648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "2122649313",
+        "tags": {
+          "VRS:gemeinde": "WESSELING",
+          "VRS:ortsteil": "Mitte",
+          "VRS:ref": "85112",
+          "name": "Wesseling Nord",
+          "operator": "HGK",
+          "railway": "halt",
+          "ref": "KWSN",
+          "wheelchair": "limited"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9709365,
+          50.8314607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "2132336110",
+        "tags": {
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7973445,
+          50.9041757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "2134620893",
+        "tags": {
+          "name": "Haus Vorst",
+          "railway": "halt"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8485869,
+          50.9157123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "id": "2139019664",
+        "tags": {
+          "VRS:gemeinde": "KÖLN",
+          "VRS:ortsteil": "Zündorf",
+          "VRS:ref": "17613",
+          "name": "Zündorf",
+          "railway": "tram_stop"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0490025,
+          50.8660735
+        ]
+      }
+    }
+  ]
+}
